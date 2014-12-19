@@ -1,0 +1,31 @@
+---
+Session:
+  Title: My awesome talk
+  Description: >
+    Description of my awesome talk goes here, 1000 chars max.
+  Length: 20
+  Tags:
+    - isomorphism
+    - reactjs
+    - frameworks
+
+Speaker1:
+  name: Jane Doe
+  twitter: JaneDoe
+  github: JaneDoe
+  url: http://janedoe.com
+  past_experience: http://youtube.com?w=My_awesome_past_experience
+  email: jane@doe.com
+  bio: >
+    Bio of speaker1, 500 chars max.
+
+Speaker2:
+  name: John Doe
+  twitter: JohnDoe
+  github: JohnDoe
+  url: http://johndoe.com
+  past_experience: http://youtube.com?w=My_awesome_past_experience
+  email: john@doe.com
+  bio: >
+    Bio of speaker2, 500 chars max.
+
