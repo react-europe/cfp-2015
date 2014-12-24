@@ -1,0 +1,48 @@
+---
+Session:
+  Title: Building WordPress themes with React
+  Description: >
+    A REST API is currently being developed for WordPress and is due to be rolled into core at some
+    point in 2015. (Although the REST API itself is already available as a plugin.) This will of
+    course make it easier to develop more engaging JavaScript-based user experiences. Development of
+    WordPress themes is due for an overhaul, and React might just be the answer.
+    
+    In many ways, React is the perfect partner to the presentation layer of WordPress. The comments
+    section is an obvious area that can benefit. But who's to say that a whole theme shouldn't be
+    built with React? If one thinks of WordPress as an app platform rather than just a blogging
+    tool, the possibilites and use cases of React seem endless.
+    
+    Jack has been developing a new proposed starter theme for WordPress that is largely powered by
+    React. This talk will cover the process involved, and challenges faced (both technically and
+    politically), when building a JavaScript-based WordPress theme with React.
+  Length: 20
+  Tags:
+    - browserify
+    - design
+    - reactjs
+    - style
+    - themes
+    - wordpress
+
+Speaker1:
+  name: Jack Lenox
+  twitter: jacklenox
+  github: jacklenox
+  url: http://jacklenox.com
+  past_experience: >
+    Jack has spoken at a number of conferences and WordPress events including the Future of Web
+    Design London and WordCamp UK. He has recently been focussing on building themes that make use
+    of the WordPress REST API and has presented on the topic at the WordPress Leeds Dev Night:
+    https://speakerdeck.com/jacklenox/theme-development-with-the-rest-api
+    
+    In 2015 he will be speaking about building themes with React and the REST API at WordCamp Prague
+    in February, and will be leading a workshop on the topic at LoopConf in May.
+  email: jack@automattic.com
+  bio: >
+    Jack Lenox is a Design Engineer on the Theme Generation team at Automattic, the company behind
+    WordPress.com. As per his name, he is a Jack-of-all-trades, and has been dabbling
+    with JavaScript for many years. After joining Automattic toward the end of 2013 he realised that
+    he had to sharpen his skills up beyond the odd bit of JS/jQuery here and there.
+    
+    He lives in the north of England where he enjoys mountain biking, skiing, appreciating great
+    design and drinking good coffee.
