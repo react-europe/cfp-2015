@@ -27,4 +27,4 @@ Selected speakers will get:
 Good luck and thanks for participating!
 
 Follow us on [twitter](https://twitter.com/reacteurope) and [facebook](https://www.facebook.com/ReactEurope).
-Don't miss our ticket sale, get a push notification from either our [pushbullet channel](https://www.pushbullet.com/my-channel?tag=reacteurope) or [YO account](http://www.justyo.co/REACTEUROPE/).
+Don't miss our ticket sale, get a push notification from either our [pushbullet channel](https://www.pushbullet.com/channel?tag=reacteurope) or [YO account](http://www.justyo.co/REACTEUROPE/).
