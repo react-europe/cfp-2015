@@ -1,0 +1,27 @@
+---
+Session:
+  Title: Flux over the Wire
+  Description: >
+    Flux is most often used to implement shared state within a single window.
+    But done properly, this architecture can be used to implement real-time, multi-user shared state between many users of the same web applications.
+    Using HTTP requests to dispatch stores, and Websocket to broadcast updates, Flux over the Wire has the potential to trivialize several hard problems.
+    While the idea of using Websockets to back Flux is rather straightforward, doing it in a way that scales up to tens of thousands of concurrent viewers can prove challenging.
+    In addition, Flux over the Wire offers an interface which considerably eases server-side rendering, as it completely abstracts data fetching and data syncing
+    from the React views that tap into its stores and dispatch its actions.
+  Length: 20
+  Tags:
+    - flux
+    - real-time
+    - server-side rendering
+
+Speaker1:
+  name: Elie Rotenberg
+  twitter: elierotenberg
+  github: elierotenberg
+  url: http://elie.rotenberg.io
+  past_experience: void 0
+  email: elie@rotenberg.io
+  bio: >
+    PhD in Computer Science, CTO and Software Architect at Webedia Gaming (editor of jeuxvideo.com and millenium.org),
+    Elie Rotenberg is a specialist in designing and deploying real-time, large-scale web applications, such as Chats, Web TVs,
+    up to tens of thousands of concurrent users.
