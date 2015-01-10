@@ -1,0 +1,39 @@
+---
+Session:
+  Title: "Live React: Hot Reloading with Time Travel"
+  Description: >
+    React’s unique strength is bringing to JavaScript development some of the
+    benefits previously exclusive to more radically functional languages such as
+    Elm and ClojureScript, without forcing you to completely eschew local state
+    or rewrite code with exclusively immutable data structures.
+
+    In this talk, Dan will demonstrate how React can be used together with
+    Webpack Hot Module Replacement to create a live editing environment with
+    time travel that supercharges your debugging experience and transforms the
+    way you work on real apps every day.
+  Length: 20
+  Tags:
+    - reactjs
+    - webpack
+    - hot-reloading
+    - time-travel
+    - live-editing
+    - react-hot-loader
+    - magic
+
+Speaker1:
+  name: Dan Abramov
+  twitter: dan_abramov
+  github: gaearon
+  url: http://github.com/gaearon
+  past_experience: >
+    Components, React and Flux (in Russian at НИИ and in English at BerlinJS):
+    http://slides.com/danabramov/components-react-flux-wip
+  email: dan.abramov@me.com
+  bio: >
+    Dan is young developer who began writing JavaScript full-time two years ago.
+    Unsatisifed with Backbone’s shortcomings, Dan found React and Flux to be a very
+    solid foundation for building composite and stateful user interfaces at Stampsy.
+
+    Dan authored and contributed to several popular React components and libraries.
+    Before getting into JavaScript, he used to write C# for Windows, Linux and iOS.
