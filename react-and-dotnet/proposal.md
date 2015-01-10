@@ -1,6 +1,6 @@
 ---
 Session:
-  Title: Share your component with the outside world
+  Title: React and .NET
   Description: >
     React is not only a client side technique. There are some cool uses of React on the server in the form of isomorphic javascript. But what if your stack is .NET? You are definitely not run out of options, as this talk about ReactJS.NET will show.
   Length: 20
