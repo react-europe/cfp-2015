@@ -1,0 +1,38 @@
+---
+Session:
+  Title: Lessons from Om with a Key to Plato
+  Description: >
+    One of the chief problems that React solves is the issue of knowledge about
+    state. In Plato's _Theaetetus_, Socrates solves a similar problem: How do we
+    distinguish knowledge that we have (ἔχω) from knowledge that we possess
+    (κτάομαι)? The problem in both cases is compounded by the fact that
+    knowledge — how a person looks or whether `on === true` — changes over time.
+
+    In this talk, I want to show how Om (the ClojureScript interface to React)
+    and core.async teach us about immutable data in ways that benefit even pure
+    JavaScript applications. By focusing on Flux-y architectural patterns in
+    pure JavaScript and in Om using core.async channels, I'll show that we know
+    our data best not by keeping it from changing but by having justified true
+    beliefs about its changes. I'll also demonstrate how we can use
+    transducers to keep state comprehensible as it moves from actions to
+    stores.
+  Length: 20
+  Tags:
+    - state
+    - om
+    - core.async
+    - flux
+
+Speaker1:
+  name: Charles Pletcher
+  twitter: brophocles
+  github: pletcher
+  url: https://github.com/pletcher
+  email: chuck@assembly.com
+  bio: >
+    Chuck is an engineer at Assembly, where he has led the move to a more
+    reactive frontend architecture. He has yet to specialize, but he's had
+    success focusing on making data easy to understand and reason about.
+
+    Before turning to software development, Chuck studied flux and state in the
+    dialogues of Plato.
