@@ -5,7 +5,7 @@ Session:
     React-Templates is a lightweight, yet amazingly powerful templating engine for ReactJS. It compiles into ReactJS
     code. No runtime libraries. No magic. Has an HTML like syntax. Leads to absolute separation of presentation and 
     logic and produces runtime HTML that is nearly identical to the template. 
-    I will tell the love story between WiX.com and React. Why JSX just didn't feel right to us and how we came to create 
+    I will tell the love story between WiX.com and ReactJS. Why JSX just didn't feel right to us and how we came to create 
     the React-Templates project. We will then glide into a more technical discussion, complete with code examples: 
     * The basic concepts. * Hello World template and the Javascript it compiles into. * Flow control directives: rt-if 
     and rt-repeat. * Variable scoping with rt-scope. * The rt-props, style and rt-class directive. 
@@ -27,7 +27,7 @@ Speaker1:
   url: http://wix.github.io/react-templates
   email: leerons@wix.com
   bio: >
-    Leeron is the head of WiX.com new Berlin front-end dev center. A veteran software developer, with Javascript 
+    Leeron is the head of WiX.com's new Berlin front-end dev center. A veteran software developer, with Javascript 
     experience going as back as 2003. One of the 4 developers who created WiX's original Javascript product back in 
     2010. He got his 2.3 minutes of fame in 2008 when his start-up Devunity.com got into the TechCrunch 50. 
     This time he will be a mere presenter, as this Amazing project will speak for itself.
