@@ -1,0 +1,38 @@
+---
+Session:
+  Title: Our Adventure with React.js
+  Description: >
+    As a Director of Cloud Services for Avi-on (http://avi-on.com) I am in
+    charge of the definition of the overall architecture of our Cloud Services.
+    These Services support the information that we sync accross smartphones and
+    the metrics we store to know how users consume our services.
+    When it was time to build our admin interface, we took the simplest approach:
+    using static views generated on the server. As our Admin application grew
+    and became more complex, we understood it was time for a change.
+    That was when we decided to use React.js and this is the story of what we had
+    to resolve in order to ship our application to production:
+
+    * Choosing the correct Archicture (Flux vs no Flux vs Reflux vs ...)
+    * Reaching limitations of the Architecture * Fetching and Storing Data from the server
+    * External Components * Team collaboration in a component-based world.
+    * Scaling React. * Thinking about how React.js would help us achieve our vision.
+  Length: 20
+  Tags:
+    - reactjs
+    - frameworks
+    - material-ui
+    - flux
+    - ES6
+    - Architecture
+
+Speaker1:
+  name: Sergio Rafael Gianazza
+  twitter: sgianazza
+  github: gianu
+  url: http://www.softwarepsychonaut.com
+  email: sgianazza@gmail.com
+  bio: >
+    A wanabe-musician who became a developer. Previously a Java developer, now
+    he works for Avi-on as Director of Cloud Services. Co-founder of Ideas Ágiles,
+    co-organizer of the Javascript Meetup Group in Buenos Aires - Argentina,
+    he came to ease the pain of the musicians co-founding Amplified.
