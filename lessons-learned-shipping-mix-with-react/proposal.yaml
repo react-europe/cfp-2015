@@ -10,12 +10,12 @@ Session:
     continuing to grow a live React app with a large user base. Mix is an
     isomorphic JS app running on a node.js backend taking advantage of React’s
     server side rendering.
-    Mix, as the web client sister to the app Paper for the iPad, uses
-    React to render a fairly design heavy experience. Topics of focus will
-    include breaking down our component design for optimistic view rendering,
-    creating and using SVG react components, building out
-    our client side graph cache with React state, and issues we encountered in
-    the weeks before shipping (and how we solved them).
+    Mix, as the web client sister to the app Paper for iPad, uses React to
+    render a very design driven experience. Topics of focus will include
+    breaking down our component design for optimistic view rendering, creating
+    and using SVG react components, building out our client side graph cache
+    with React state, and issues we encountered in the weeks before shipping
+    (and how we solved them).
   Length: 45
   Tags:
     - isomorphism
