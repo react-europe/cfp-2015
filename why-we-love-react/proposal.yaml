@@ -1,0 +1,33 @@
+---
+Session:
+  Title: Why we love React
+  Description: >
+    Our Open Source application is moving from Backbone.js to React.js. Our app powers the admin interface for Apache CouchDB and the IBM Cloudant Infrastructure.
+    Our app was a JavaScript MVC Backbone.js Application - we love Backbone.js and JavaScript but it hasn’t been smooth sailing all the time, especially as our app grew in complexity. Over the last few months it has taken more and more time to add new features. Often each new feature added new bugs.
+    We decided to switch to React and our results are very promising! We are taking an iterative approach by replacing our Backbone.js views with React.js and Flux. Our code has improved significantly and is now easier to test which makes code reviews easier and our application is a lot snappier.
+    And the best thing is that all of our work is Open Source, and you are able to see how we are getting better! Garren and me will tell our story, our pitfalls and what we've learned on our journey to make Open Source Software more accessible and easier to maintain.
+  Length: 20
+  Tags:
+    - Open Source
+    - legacy
+    - frameworks
+
+Speaker1:
+  name: Robert Kowalski
+  twitter: @robinson_k
+  github: https://github.com/robertkowalski
+  url: http://robert-kowalski.de
+  past_experience: http://slidr.io/robertkowalski
+  email: rok@kowalski.gd
+  bio: >
+    Robert is a Software Engineer who loves JavaScript on the client and on the server. Robert contributes to a lot of Open Source projects, including CouchDB, Node.js and npm. In his spare time he is organizing JS Unconf and the CouchDB Day.
+
+Speaker2:
+  name: Garren Smith
+  twitter: @GarrenSmith
+  github: https://github.com/garrensmith
+  url: http://garrensmith.com/
+  past_experience: https://www.youtube.com/watch?v=Uj5XGEhB_OQ
+  email: garren.smith@gmail.com
+  bio: >
+    Garren is a JavaScript fanatic. As a CouchDB Committer, he has spent the last year working on Fauxton, the new CouchDB Web Interface. He is the founder of Red Comet Labs, where he works as a consultant developer and is a regular contributor to OpenSource code. Garren is also the creator of Classroom 7, an online course building application. He loves living under the African sun in Johannesburg, South Africa.
