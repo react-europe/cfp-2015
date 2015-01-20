@@ -1,0 +1,37 @@
+---
+Session:
+  Title: Making React Reactive with Bacon
+  Description: >
+    React syncs the state of your components to the DOM. But what about syncing the state of your data to your components? Reactive programming using BaconJS is the perfect way to propagate changes from your data directly to your DOM and back again.
+    This presentation will show how the reactive programing paradigm can help us greatly simplify the Flux architecture for fun and for profit.
+  Length: 30
+  Tags:
+    - reactjs
+    - frp
+    - reactiveprogramming
+    - baconjs
+    - flux
+
+Speaker1:
+  name: Jack Morgan
+  twitter: jackofseattle
+  github: jackofseattle
+  past_experience: >
+    Using decorators to improve AngularJS:
+    https://speakerdeck.com/jackofseattle/ng-delegates
+
+    Translating the front end @ MobileAppTracking:
+    https://docs.google.com/presentation/d/19p5iAbgKQPrsNvl78uMlEhTKKYt6YC7EcEm9Yvxiyo0/pub?start=false&loop=false&slide=id.g2a431f034_0216
+  email: jack@jackandmadeline.com
+  bio: >
+    Jack is the Lead Platform Architect @ Tune - responsible for establishing scalable and maintainable front end systems for the entire product platform. When he's not at work you can find him out in the wilderness with his girlfriend and his dog.
+
+Speaker2:
+  name: David Chang
+  twitter: davidchizzle
+  github: davidchang
+  url: http://davidandsuzi.com
+  past_experience: http://davidchang.github.io/intro-to-react-presentation/#
+  email: dchang.me@gmail.com
+  bio: >
+    David is on the Platform Architecture team @ Tune - after authoring ngReact, a hybrid approach for using React views in AngularJS, he wrote a style guide proposal for React components. David is an avid runner and can be found regularly spending his lunch hour running up and down the Seattle waterfront before heading home to his wife.
