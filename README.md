@@ -14,8 +14,8 @@ Use this to submit your talk to the ReactEurope conference in Paris in July 2-3 
  6. If you want to submit more than one talk, create a new branch and do a pull request for each branch.
  7. Want to have more chances to get your talk accepted? Add a link to a youtube video in the past_experience field where you would advertise your talk to attendees so we can re-use the video as promotional material on the conference website (idea from EmberConf :).
 
-You have until February 15th 23:59 UTC+0 to send a proposal
-We will announce the winners by February 25th, 2015.
+You have until Sunday February 15th 23:59 UTC+0 to send a proposal
+We will announce the winners by Wednesday February 25th, 2015.
 
 Selected speakers will get:
 
