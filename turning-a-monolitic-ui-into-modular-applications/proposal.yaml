@@ -2,17 +2,17 @@
 Session:
   Title: How we turned a monolitic UI into multiple modular applications
   Description: >
-    React is **not** cool.
+    React.js is **not** cool.
     Spending efforts to convince people wary about the hype is not cool either.
     Spending less time chasing bugs **is** cool.
 
-    Instead of praising both technology and change, I spent 3 afternoons to break up an existing Web application into a living and interactive styleguide.
-    When I have been asked how I achieved this so quickly: I answered I created and assembled React components.
+    Instead of pontificating about both technology and change, I spent 3 afternoons to break up an existing Web application into a living and interactive styleguide.
+    When I have been asked how I achieved this so quickly: I answered I created and assembled React.js components.
 
-    Developing new features became faster as one would expect.
+    Developing new features became faster than one would expect.
     But code reviews and maintenance time diminished as well.
 
-    This talk is a journey towards that migration:
+    This talk relates this migration journey:
     - breaking up a common problem through incremental improvement
     - elevating the browserify pipeline to a first class citizen
     - making our interface and components reusable by default
@@ -36,9 +36,9 @@ Speaker1:
   past_experience: https://dl.dropboxusercontent.com/u/14916101/BBC_College_of_Technology_-_Develop_2014_-_Thomas_Parisot_p02bw79r_default.mp4
   email: thomas.parisot@bbc.co.uk
   bio: >
-    **Thomas Parisot is a Senior Web Engineer at BBC R&D** in London, United Kingdom. His work there involves compelling user experience prototypes, audio visualisation and Open Source collaboration thanks to JavaScript and Web technologies.
+    **Thomas Parisot is a Senior Web Engineer at BBC R&D** in London, United Kingdom. He works on compelling user experience prototypes, audio visualisation and Open Source collaboration thanks to JavaScript and Web technologies.
 
-    He is a believer of cross-disciplines learning, simple things and chance. Of course he likes cheese. Of course he likes wine. And [words](https://oncletom.io). And [making pictures](https://oncletom.io/photos/).
+    He is a believer in cross-disciplines learning, simple things and chance. Of course he likes cheese. Of course he likes wine. And [words](https://oncletom.io). And [making pictures](https://oncletom.io/photos/).
 
-    Aside that, he co-created the [Sud Web conference](http://sudweb.fr) in France, has an upcoming Node.js book to be published in French and has no problem to admit he co-founded a startup which failed.
+    Aside from that, he co-created the [Sud Web conference](http://sudweb.fr) in France, has an upcoming Node.js book to be published in French and has no problem admitting he co-founded a startup which failed.
 
