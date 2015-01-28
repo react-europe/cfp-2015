@@ -1,0 +1,39 @@
+---
+Session:
+  Title: Dawn of the Progressive Single Page App
+  Description: >
+    With the increasing popularity of single page applications, we've seemingly
+    been forced to choose between progressive enhancement and rich, app-like
+    experiences on the web. Thanks to React and Node.js, we now have the ability
+    to share our UI code between client and server, allowing us to get the best
+    of both worlds by pre-rendering on the server. While extremely powerful, this
+    technique only serves to highlight why progressive enhancement continues to
+    be such a vital approach to web development. After beginning with a refresher
+    course in progressive enhancement, we'll cover the ways in which we can ensure
+    our React applications remain crawlable, accessible and resilient, even when
+    JavaScript is completely disabled.
+
+  Length: 20
+  Tags:
+    - accessibility
+    - isomorphism
+    - progressive enhancement
+    - graceful degradation
+    - reactjs
+    - seo
+
+Speaker1:
+  name: Mark Dalgleish
+  twitter: markdalgleish
+  github: markdalgleish
+  url: http://markdalgleish.com
+  past_experience:
+    - https://markdalgleish.github.io/presentation-return-of-the-progressive-web
+    - https://markdalgleish.github.io/presentation-a-state-of-change-object-observe
+    - https://www.youtube.com/watch?v=_vQ-6SWAtjE
+  email: mark.john.dalgleish@gmail.com
+  bio: >
+    Mark Dalgleish is the lead organiser of MelbJS, and a senior software developer
+    at SEEK, the leading online job board in Australia. Having got his start with
+    HTML and UI design at a young age, he has since developed a love of software
+    engineering, but always as a means to creating elegant, usable experiences.
