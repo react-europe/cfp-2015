@@ -1,6 +1,6 @@
 ---
 Session:
-  Title: Adapting jQuery plugins for fun and profit
+  Title: React-ify jQuery plugins for fun and profit
   Description: >
     React.js and Flux are revolutionizing the front-end web development world.
     However, the ecosystem is still very immature. This talk will cover useful
