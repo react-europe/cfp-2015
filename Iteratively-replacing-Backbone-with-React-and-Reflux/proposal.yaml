@@ -1,0 +1,21 @@
+---
+Session:
+  Title: Iteratively replacing Backbone with React and Reflux
+  Description: >
+    We had built an entire application over several years using Backbone.js. As the application grew and new features were added, the code started becoming increasingly complex. Data flow was getting messy. Simple things such as merging two items in a list had to be done either by re-rendering the entire list, resulting in a terrible user experience, or by writing a custom list-wrapper using all sorts of jQuery hacks. Then React showed up on our radar. Combined with the Flux architecture it seemed like almost the silver bullet or at least a preferred solution to some of our struggles. However, as rewriting the entire application in React was not an immediate option - we decided to adopt it iteratively. Hence, this is the story of where we started, challenges we faced, trade-offs we had to make and lessons we learned while gradually replacing our old Backbone code with React and Reflux.
+  Length: 30
+  Tags:
+    - backbone
+    - reactjs
+    - reflux
+    - legacy
+    - experience report
+
+Speaker1:
+  name: Erling Wegger Linde
+  twitter: erlingwl
+  github: erlingwl
+  url: no.linkedin.com/in/erlingwl/
+  email: erlingwl@gmail.com
+  bio: >
+    Erling is the founder and CEO of CV Partner - a SaaS sales tool for consultancies. He has international experience with software development and consulting. He is a true full stack developer and does everything from sales and accounting to development and operations.
