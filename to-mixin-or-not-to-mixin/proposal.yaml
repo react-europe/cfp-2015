@@ -1,21 +1,26 @@
 ---
 Session:
-  Title: Purify Mixins
+  Title: To Mixin or not to Mixin
   Description: >
     On npm, the ratio mixins to components is pretty high. So mixins are popular despite being poorly documented.
 
     Want to learn the possibilities, limitations and pitfalls of mixins?
 
     This talk explains what a mixin is and how it is different from a component. After defining a clear boundary,
-    we will see how components and mixins are combined. Can we define all lifecycle methods in a mixin? What does
-    it mean to have multiple mixins in one component? We will dive into React's source to get answers. Powerful
-    visualizations and straightforward demos uncover mixin behavior in React.
+    we will see how components and mixins are combined in React. Can we define all lifecycle methods in a mixin? 
+	What does it mean to have multiple mixins in one component? We will dive into React's source to get answers. 
+	Powerful visualizations and straightforward demos uncover mixin behavior in React.
 
-    After this talk you will be able to write mixins with ease.
+	In case you use the ES6 classes introduced in React v0.13, mixins are no longer possible. What are the 
+	consequences? How is the new compositional API taking shape?
+	
+    After this talk you will be able to write composable React classes with ease.
   Length: 20
   Tags:
     - mixin
     - components
+	- compositional API
+	- ES6 classes
     - state
     - reactjs
 
