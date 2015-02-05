@@ -1,0 +1,35 @@
+---
+Session:
+  Title: "Oh %$4#@, I Made It Slow. Performance Considerations When Implementing Inifinity Scrolling, Drag and Drop, and More"
+  Description: >
+    The React library makes it simple to build super performant apps, but issues can still arise at large scale.
+    This session will explore React’s features which we can leverage to improve performance when jank rears its head, 
+    and teach participants how to diagnose and resolve the performance issues which arise in large scale apps.
+
+    We will use an example application that contains a series of overflow: scroll divs which have children components 
+    that change parents, utilizing the React-DnD library. With a low number of dom nodes this will be quite performant, 
+    but once we scale this to high numbers of dom nodes we’ll see an increase in screen delays/jank. Using Chrome’s 
+    JavaScript timeline we will find the source of the jank we see in the interface and brainstorm multiple methods 
+    for resolving the core issues. To resolve this, we’ll implement an infinity scrolling technique which demonstrates 
+    the utility and power of React’s component lifecycle methods.
+  Length: 30
+  Tags:
+    - jank
+    - reactjs
+    - drag and drop
+
+Speaker1:
+  name: Mike Tetlow
+  twitter: Mikename
+  github: mtetlow
+  past_experience:
+    - http://dreamforce.vidyard.com/watch/-EQUMtd1kc1rxa0R2d67bA
+    - http://dreamforce.vidyard.com/watch/_HoqpihD5KC6rXZ29BPbWw
+    - http://bracketlabs.com/blog/2014/1/20/bracket-labs-dreamforce-roundup-visualforce-and-bootstrap
+    - http://bracketlabs.com/blog/2014/122/bracket-labs-dreamforce-roundup-2-making-external-web-pages-interact-with-visualforce
+  email: Mikename@gmail.com
+  bio: >
+    Mike Tetlow is the technical co-founder of Bracket Labs, an award-winning developer of apps in the Salesforce ecosystem. 
+    He has built and deployed numerous applications on the Salesforce platform, utilizing Javascript and native mobile stacks. 
+    Mike is a frequent contributor to the Denver Salesforce Developer User Group and maintains a 
+    GitHub profile at https://github.com/mtetlow
