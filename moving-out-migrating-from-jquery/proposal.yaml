@@ -1,0 +1,43 @@
+---
+Session:
+  Title: "Movin Out: Migrating a Legacy jQuery Salesforce App to React"
+  Description: >
+    Migrating an enterprise software app across multiple JavaScript frameworks can be challenging. 
+    This session will cover learning React while migrating an existing, mostly jQuery based, JavaScript 
+    application. In addition, we’ll also explore the unique considerations in converting an existing 
+    app on a third party platform to React.
+
+    First, we’ll review the constraints specific to enterprise apps operating on the Salesforce
+    platform, including stringent requirements for reliability, predictability, end-customer customization,
+    and end-user experience.  
+
+    Next, we’ll describe dev environment configuration on a third party platform. This will include a discussion
+    of peculiarities involved in development when you do not control the full DOM.
+
+    Finally we will transition to a hands on demo of slicing an existing app into React components, 
+    as well as building the stores to feed them. With a completed app, we will explore performance 
+    optimizations and troubleshooting.
+  Length: 20
+  Tags:
+    - noobs
+    - reactjs
+    - flux
+    - agile
+    - Salesforce
+    - PAAS
+
+Speaker1:
+  name: Mike Tetlow
+  twitter: Mikename
+  github: mtetlow
+  past_experience:
+    - http://dreamforce.vidyard.com/watch/-EQUMtd1kc1rxa0R2d67bA
+    - http://dreamforce.vidyard.com/watch/_HoqpihD5KC6rXZ29BPbWw
+    - http://bracketlabs.com/blog/2014/1/20/bracket-labs-dreamforce-roundup-visualforce-and-bootstrap
+    - http://bracketlabs.com/blog/2014/122/bracket-labs-dreamforce-roundup-2-making-external-web-pages-interact-with-visualforce
+  email: Mikename@gmail.com
+  bio: >
+    Mike Tetlow is the technical co-founder of Bracket Labs, an award-winning developer of apps in the Salesforce ecosystem. 
+    He has built and deployed numerous applications on the Salesforce platform, utilizing Javascript and native mobile stacks. 
+    Mike is a frequent contributor to the Denver Salesforce Developer User Group and maintains a 
+    GitHub profile at https://github.com/mtetlow
