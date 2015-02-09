@@ -1,0 +1,34 @@
+---
+Session:
+  Title: Improving Your Workflow With Code Transformation
+  Description: >
+    Most React developers already use a build pipeline to transform their JSX
+    into vanilla JavaScript. This is usually under-utilised only doing basic
+    transformations such as concatenation, minification and linting.
+
+    In this talk, Sebastian will go over how this already existing infrastructure
+    can be further utilised to perform even more significant code transformations
+    such as transpilation, optimisation, profiling and more, reducing bugs,
+    making your code faster and you as a developer more productive and happy.
+  Length: 40
+  Tags:
+    - es6
+    - code transformation
+    - transpilation
+
+Speaker1:
+  name: Sebastian McKenzie
+  twitter: sebmck
+  github: sebmck
+  url: http://sebmck.com
+  past_experience: >
+    A member of the Sydney JavaScript community, I have given talks from time to
+    time at local meetups.
+  email: sebmck@gmail.com
+  bio: >
+    Sebastian McKenzie is a JavaScript enthusiast based in Sydney, Australia.
+    He's extremely passionate about open source as well as web standards and is
+    always looking to push the boundaries of what is possible.
+
+    Sebastian is also the creator of the popular 6to5 compiler that's used by
+    many React developers to bring their JSX and ES6 to life.
