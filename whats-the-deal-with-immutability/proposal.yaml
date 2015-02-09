@@ -1,0 +1,42 @@
+---
+Session:
+  Title: What's the Deal with Immutability?
+  Description: >
+    We hear quite a lot about immutability in the React community, and with
+    good reason! Many proponents focus on the performance benefits -
+    especially those provided by shouldComponentUpdate - but I'd like to look
+    at the larger picture.
+    Immutability was gaining popularity before React was even conceived -
+    with the Clojure community leading the charge. Immutable data strucures
+    go hand-in-hand with a functional programming style, and can lead to a
+    drastically simpler mental model of our systems. I'll look at some
+    philosophy and terminology behind this style of programming along with
+    the benefits it brings.
+    A question people often ask is "How can my program work if nothing ever
+    changes?" - I'll answer this and more, with a focus on the "what" and
+    "why" of immutability. Implementation details will be mostly left on the
+    sidelines. You'll hopefully come away from this talk understanding the
+    power of values, and what immutability really means for our applications.
+
+  Length: 20
+  Tags:
+    - immutability
+    - reactjs
+
+Speaker1:
+  name: Glen Mailer
+  twitter: glenathan
+  github: glenjamin
+  url: http://stainlessed.co.uk
+  past_experience:
+    - http://blog.glenjamin.co.uk/names-values-identities-states-and-time
+    - https://speakerdeck.com/glenjamin/
+    - http://www.youtube.com/watch?v=i-UUUQcAC90
+  email: glen@stainlessed.co.uk
+  bio: >
+    Glen is a freelance software developer based in the north of England. He
+    came to hear about React from the Clojure community, and so brings a
+    background in functional programing and immutable data structures.
+    Since introducing React at his day job at SkyBet in June last year, he's
+    been building a real-time multi-user application with a 100% React front-
+    end using only simple data structures and lots and lots of functions.
