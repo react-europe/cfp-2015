@@ -1,0 +1,49 @@
+---
+Session:
+  Title: Keeping it simple: React & just a spreadsheet
+  Description: >
+    Imagine a searchable product list* with a few thousand items to
+    manage that uses only a spreadsheet as its database.
+
+    In this talk I'll describe the recipe used to build HasGluten,
+    an up-to-date and comprehensive list of gluten-free foods 
+    maintained in 5 languages.
+
+    Take a Google spreadsheet as a backend, query it via JSON API.
+    Add a React web app as a frontend. To your taste, render
+    server-side. Host the static web pages on GitHub.
+
+    The result is a cheap, scalable, geo-distributed software stack,
+    with simple interfaces to maintain both code (GitHub Pages) and
+    data (Google Sheets -- also great for the non-tech).
+
+    I'll show relevant pieces of code (all open source**) and explain
+    how React's "easy to reason" philosophy enables such a resource
+    effective solution -- extremely low cost, little time to setup,
+    and simple maintenance.
+
+    Bonus takeaway: learn how we translated 1k+ foods in 5 languages!
+
+    * facebook.github.io/react/blog/2013/11/05/thinking-in-react.html
+    ** github.com/hasgluten/hasgluten
+  Length: 20
+  Tags:
+    - reactjs
+    - spreadsheet
+    - maintainability
+    - gluten-free
+
+Speaker1:
+  name: Emanuele Cesena
+  twitter: emacesena
+  github: ecesena
+  url: http://e.cesenas.com
+  email: emanuele.cesena@gmail.com
+  bio: >
+    Emanuele Cesena is co-founder and CTO at Theneeds.com, where he 
+    develops the web frontend and the backend technology behind 
+    Theeneds' personalization engine.
+    He has a Ph.D. in Math with a focus on cryptography and conducted 
+    post-doc research in security and cloud computing.
+    Beside his startup, Emanuele sleeps a few hours and enjoys 
+    good wine.
