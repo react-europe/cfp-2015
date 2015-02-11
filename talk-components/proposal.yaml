@@ -1,0 +1,40 @@
+---
+Session:
+  Title: Components architecture for the search era
+  Description: >
+    One of the promises of React is to give the ability to build reusable components.
+    But let's admit it, we're not always the end-user of those components. What do you have
+    to do to actually build components that will help others without getting in
+    their way? How do you create the perfect mix between flexibility and ease of
+    use? And how do you make your components so that they are able to communicate
+    with each other without imposing too much?
+
+    At Algolia, we make a search engine as a service, and a pretty fast one. We
+    want our users to feel the speed and create a UX benefiting from it.
+    In practice this means building a whole interface that is able to update itself instantaneously in
+    response to the user input and all the search information we retrieve from the
+    server. The sprectrum of UX that one can wish to implement goes from the simple
+    autocomplete to the multi facet exploration of the results and to even fancier experience.
+
+    This talk will present what solutions we came up with for making a set of consistent
+    and communicating components, that can be used by everyone. All that, in the
+    hope of enabling them to unleash the navigation experience of their own users
+    and enter the SEARCH ERA.
+  Length: 20
+  Tags:
+    - architecture
+    - reusable components
+    - comunicating components
+    - reactjs
+
+Speaker1:
+  name: Alexandre Stanislawski
+  twitter: bobylito
+  github: bobylito
+  url: http://bobylito.me
+  past_experience:
+  email: bobylito@gmail.com
+  bio: >
+    Alexandre is a professional JS nerd, working for Algolia to bring the best UX
+    in the search space. Active in the communities, he is an historic member of
+    Paris JS and the co-organizer of DemoJS since 2011.
