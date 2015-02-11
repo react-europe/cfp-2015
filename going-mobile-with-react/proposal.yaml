@@ -1,0 +1,52 @@
+---
+Session:
+  Title: Going Mobile with React
+  Description: >
+    React.js is changing the way developers think about mobile app development,
+    especially with the recent announcement of React Native. However, in many
+    ways hybrid (web + mobile) app development is here to stay for a large
+    number of mobile apps.
+    
+    Everyone's heard "you can't build a native experience in a web view". We
+    disagree. You just have to know the right tricks. And when you do, the web
+    becomes an incredibly powerful platform for delivering amazing user
+    experience using the technology you know.
+    
+    At Thinkmill in Sydney, over the course of developing several commercial
+    apps, we've experienced the power of using ReactJS for mobile apps built on
+    web technology, and developed a framework we call TouchstoneJS (which Tom
+    Occhino called "the best looking and feeling implementation of this that
+    I've seen" during the Q&A session at React Conf) to share this capability
+    with developers around the world.
+    
+    In this talk I'll share what we've learned and how we've approached the
+    unique challenges of mobile web apps - with tools that are useful to all
+    developers building touch interfaces with React, as well as a walkthrough
+    of our development process and framework.
+    
+    I'll also talk about what you can do with the web platform that you can't
+    with native apps, and even React Native.
+    
+  Length: 40
+  Tags:
+    - mobile
+    - hybrid
+    - reactjs
+    - frameworks
+
+Speaker1:
+  name: Jed Watson
+  twitter: JedWatson
+  github: JedWatson
+  url: http://thinkmill.com.au
+  past_experience: http://www.sydjs.com/member/jed-watson
+  email: jed.watson@me.com
+  bio: >
+    Jed is a partner at Thinkmill in Sydney, a new development agency with a
+    strong focus on community, open source and R&D. A javascript enthusiast,
+    he has been developing applications on the web for over a decade.
+    
+    On a mission to solve hard framework problems and make developers around
+    the world more productive, Jed is the author of TouchstoneJS, KeystoneJS
+    (a major open source cms for node.js, also built with React.js), and a
+    number of other components and packages available on npm and GitHub.
