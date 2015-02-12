@@ -1,0 +1,44 @@
+---
+Session:
+  Title: Building our Real-Time Multi-User Alerting System
+  Description: >
+    At SkyBet we're no stranger to soft-real-time systems. As a Sports Betting
+    company we want to show the most up-to-date data to all our customers.
+    Caching queries is a last resort and pushing data directly to clients has
+    been the norm for years.
+    The systems we've built to do this are alright, but a bit of a mess - static
+    data from the server, then raw DOM manipulation to apply updates via Web
+    Sockets. When it was time to build an internal facing alerting system that
+    would be used by the whole trading department simulataneously, we wanted to
+    do better: React was the answer.
+    1 Year after that decision I'll talk about how we chose React, and how our
+    system was structured to keep it simple as we added features. I'll look at
+    what worked well, and what didn't - as well as an explanation and demo of
+    the flux-like server architecture that keeps it all in sync.
+  Length: 20
+  Tags:
+    - reactjs
+    - team
+    - application
+    - rabbitmq
+    - flux
+    - real-world
+    - nodejs
+
+Speaker1:
+  name: Glen Mailer
+  twitter: glenathan
+  github: glenjamin
+  url: http://stainlessed.co.uk
+  past_experience:
+    - https://speakerdeck.com/glenjamin/
+    - http://www.youtube.com/watch?v=i-UUUQcAC90
+  email: glen@stainlessed.co.uk
+  bio: >
+    Glen is a freelance software developer based in the north of England. He
+    came to hear about React from the Clojure community, and so brings a
+    background in functional programing and immutable data structures.
+    Since introducing React at his day job at SkyBet in June last year, he's
+    been building an application with a 100% React front-end using only simple
+    data structures and lots and lots of functions.
+
