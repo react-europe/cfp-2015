@@ -1,0 +1,28 @@
+---
+Session:
+  Title: Relay: An Application Framework For React
+  Description: >
+    Relay is a new framework from Facebook that enables declarative data
+    fetching & updates for React applications. Relay components use GraphQL to
+    specify their data requirements, and compose together to form truly modular
+    applications. This talk will explore the problems Relay solves, the
+    architecture and query lifecycle, and how can you use Relay to build more
+    scalable apps. We’ll also see examples of how Relay powers applications as
+    complex as the Facebook News Feed.
+  Length: 30
+  Tags:
+    - relay
+    - graphql
+    - datafetching
+    - flux
+    - reactjs
+
+Speaker1:
+  name: Joseph Savona
+  twitter: en_js
+  github: josephsavona
+  url: http://josephsavona.com
+  past_experience: (recordings unavailable)
+  email: joesavona@fb.com
+  bio: >
+    Joseph Savona is a developer at Facebook working on Relay and GraphQL.
