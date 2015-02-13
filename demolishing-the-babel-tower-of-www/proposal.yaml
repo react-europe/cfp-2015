@@ -1,0 +1,22 @@
+---
+Session:
+  Title: Demolishing The Babel Tower of WWW with React and Web Components
+  Description: >
+    Description of my awesome talk goes here, 1000 chars max.
+  Length: 20
+  Tags:
+    - web components
+    - reactjs
+    - backbone
+    - angular
+    - mvc frameworks
+
+Speaker1:
+  name: Denis Radin
+  twitter: PixelsCommander
+  github: PixelsCommander
+  url: http://pixelscommander.com
+  past_experience: http://youtube.com?w=My_awesome_past_experience
+  email: denis.radin@gmail.com
+  bio: >
+    Bio of speaker1, 500 chars max.
