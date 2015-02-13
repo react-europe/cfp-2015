@@ -2,7 +2,10 @@
 Session:
   Title: Demolishing The Babel Tower of WWW with React and Web Components
   Description: >
-    Description of my awesome talk goes here, 1000 chars max.
+    Dozen of frameworks talking dozen different languages.
+    That is what we have now on the web and this is very likely to The New Babel Tower. However this time there is a chance to break languages barrier ending up with happy end.
+    The talk is about converting React components into Web Components in order to make them talk universal language of HTML and be able to inject them into any project built with any framework or without.
+    Also will put a few words on converting views built with other MVC frameworks.
   Length: 20
   Tags:
     - web components
@@ -19,4 +22,5 @@ Speaker1:
   past_experience: http://youtube.com?w=My_awesome_past_experience
   email: denis.radin@gmail.com
   bio: >
-    Bio of speaker1, 500 chars max.
+    Front-end engineer in UPC. Passionate about UI experiments and performance optimization.
+    Launching JavaScript to the space and stratosphere in spare time and believe this is a sunrise of interactive revolution.
