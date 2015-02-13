@@ -2,13 +2,7 @@
 Session:
   Title: Relay: An Application Framework For React
   Description: >
-    Relay is a new framework from Facebook that enables declarative data
-    fetching & updates for React applications. Relay components use GraphQL to
-    specify their data requirements, and compose together to form truly modular
-    applications. This talk will explore the problems Relay solves, its
-    architecture and the query lifecycle, and how can you use Relay to build
-    more scalable apps. We’ll also see examples of how Relay powers applications
-    as complex as the Facebook News Feed.
+    Relay is a new framework from Facebook that enables declarative data fetching & updates for React applications. Relay components use GraphQL to specify their data requirements, and compose together to form truly modular applications. This talk will explore the problems Relay solves, its architecture and the query lifecycle, and how can you use Relay to build more scalable apps. We’ll also see examples of how Relay powers applications as complex as the Facebook News Feed.
   Length: 30
   Tags:
     - relay
