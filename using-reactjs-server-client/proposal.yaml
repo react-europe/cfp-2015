@@ -1,0 +1,23 @@
+---
+Session:
+  Title: Reusing React.js Components on the Server and Client
+  Description: >
+    Application response time is very important.  Amazon estimates that a 100-millisecond delay reduces their sales by 1 percent.  By using server-side rendering with React.js, we can pre-render the initial state server-side which speeds up page loads dramatically since users don't have to wait for all the JavaScript to load before they see the page render.  React.js also lets us reuse these components client-side which reduces the amount of code we have to write and speeds up development.  In this talk, we'll take a detailed look at how to use components on both the server and client to achieve top performance.
+  Length: 20
+  Tags:
+    - reactjs
+    - server
+    - client
+    - ssr
+    - awesome
+    - performance
+
+Speaker1:
+  name: James Brown
+  twitter: ibjhb
+  github: ibjhb
+  url: http://Ja.mesBrown.com
+  past_experience: http://Ja.mesBrown.com/speaking/
+  email: J@mesBrown.com
+  bio: >
+    James Brown has 15+ years of experience in software development. He previously was a Senior Developer and Director of Development for WRECKINGBALL Media Group. He has built multiple internal and external projects for Adobe Systems, including international product launch websites, and was primarily responsible for leading his programming team to code and rebuild the Adobe’s popular site, Adobe TV (http://tv.adobe.com). He has extensive knowledge in building internationalized websites, internally-used CMS systems, and is an expert in architecting and building large-scale, enterprise sites and applications.  He also was the primary JavaScript architect developer for the mobile or tablet sites of Panera Bread, TJ Maxx, Lenovo, Payless Shoesource & Western Digital.  He has also done work for General Motors on their in-car applications.
