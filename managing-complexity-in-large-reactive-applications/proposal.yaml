@@ -1,0 +1,44 @@
+---
+Session:
+  Title: Managing complexity in large reactive applications
+  Description: >
+    React has changed how we develop user interfaces, but there are
+    lots of competing ideas about how the rest of the application
+    should interact. We faced this when building our presentation tool
+    using React. It needs to handle lots of state, complex mouse
+    interactions and communication with our canvas renderer. Not to
+    mention the fact that users expect our app to support
+    Google Docs-style collaboration and so we also have to react to
+    changes from the network seamlessly.
+    
+    To manage this complexity we tried using OOP, Flux, FRP (Bacon.js)
+    and we even tried reimplementing parts in Elm.
+    In this talk I will show you what we learned and how we decided
+    to mix architectures. I will demonstrate how they interact
+    while taking advantage of centralized state and pure functions to
+    make code easier to understand and test.
+
+  Length: 30
+  Tags:
+    - architecture
+    - large scale javascript
+    - baconjs
+    - frp
+    - flux
+    - elm
+    - prezi
+
+Speaker1:
+  name: Laszlo Pandy
+  github: laszlopandy
+  url: http://laszlopandy.com
+  past_experience:
+    - https://www.youtube.com/watch?v=lK0vph1zR8s
+    - https://www.youtube.com/watch?v=8lOENv0A1fs
+  email: laszlo.pandy@prezi.com
+  bio: >
+    Engineering Manager leading the JavaScript team at Prezi.
+    Focussed on bringing functional programming to JavaScript
+    to build more flexible and more reliable user interfaces.
+    Contributor to Elm, fan of React.
+
