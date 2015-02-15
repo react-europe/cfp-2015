@@ -1,0 +1,24 @@
+---
+Session:
+  Title: My awesome talk
+  Description: >
+    React is great for building fast UI. React-Canvas and React-Native are taking it to new paradigms. But what about the good old DOM? With transforms, requestAnimationFrame and some discipline you can create amazing animations with React.
+    Famo.us is framework built specifically for buildning great animations in the DOM. When you look deeper it has it own version of a virtual DOM to accomplish this. I will who how you can plug Famo.us in a React App. How React can be made to work more like famo.us, and you build complicated layouts with smooth animations in React.
+    Upclose.me is a 100% React app and uses these concepts in production. There will be some code examples.
+    The talk will end with some 'hype'-like demos for amazing animations in React.
+  Length: 20
+  Tags:
+    - famo.us
+    - reactjs
+    - animations
+
+Speaker1:
+  name: Naman Goel
+  twitter: naman34
+  github: nmn
+  url: http://blog.namangoel.com
+  past_experience: No video yet. :(
+  email: naman34@gmail.com
+  bio: >
+    Naman Goel is lead front-end engineer at upclose.me, and has been building an app with webRTC and websockets based on React. He is the author of React-Infinity, and has a special interest in building responsive animated UIs.
+
