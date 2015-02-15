@@ -1,0 +1,43 @@
+---
+Session:
+  Title: "Beyond renderToString(): Optimizing Server Rendering"
+  Description: >
+    One of React's most alluring promises is that of isomorphic JavaScript through the use of React.renderToString(). 
+    However, that's only the beginning of what we need to write server-side React that is truly fast for 
+    our users. In this talk, we'll answer:
+        * What are the performance bottlenecks with server-side React?
+        * How can we parallelize browser painting and server rendering to make sure that time to first browser paint 
+        is not blocked by React rendering?
+        * How can we pipeline data to the client in an efficient way?
+        * How can we make single-page applications that load code progressively while rendering server-side for first page load?
+        * How will performance of server-side React rendering change as we move to HTTP/2?
+    We will share both theoretical and practical tips we've learned over the course of implementing a framework
+    for fast React server rendering, and we plan to open-source our framework in time for ReactEurope.
+  Length: 30
+  Tags:
+    - isomorphism
+    - reactjs
+    - performance
+    - http2
+    - open-source
+Speaker1:
+  name: Robert Gay
+  twitter: roblg
+  github: roblg
+  url: http://www.redfin.com
+  email: robert.gay@redfin.com
+  bio: >
+    Robert is a Technical Lead at Redfin on the Platforms Team. Over his 7.5 years at Redfin, Robert has worked on projects 
+    across Redfin's stack and product suite, from web to mobile, Java to ES6, and Dojo to React. He is currently one of the 
+    developers building Redfin's isomorphic React framework.
+
+Speaker2:
+  name: Sasha Aickin
+  twitter: xander76
+  github: redfin-sasha-aickin
+  url: http://www.redfin.com
+  email: sasha.aickin@redfin.com
+  bio: >
+    Sasha is the former CTO of Redfin. Over the course of his 9 years at Redfin, Sasha has worked in just about every role
+    on the Redfin Engineering team, and he is now working on porting Redfin's front-end web code to isomorphic React.
+
