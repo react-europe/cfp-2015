@@ -2,13 +2,15 @@
 Session:
   Title: Flux Comparison by Example
   Description: >
-    Nowadays there are too much Flux libraries on the web and that's why sometimes
-    it's hard to choose the most suited one for your next project.
-    But this talk aims to be a helpful practical comparison of modern Flux solutions.
-    We will take a closer look on the implementation differencies, support of isomorphism,
-    API simplicity and patterns such libraries like Alt and Flummox borrow from original
-    Facebook Flux through one example application developed with different Flux frameworks.
+    Nowadays there are too much Flux libraries on the web. That's why it's hard to choose
+    the most suitable one for your next project.
 
+    This talk aims to be a helpful practical comparison of modern Flux solutions.
+    We will take a closer look on the implementation differencies, support of isomorphism,
+    API simplicity and how the libraries cope with boilerplate code. We will see what patterns
+    such libraries as Alt.js, Flummox or Reflux borrow from the original Facebook Flux.
+    Good comparison is achieved by following the implementation details of one demo application
+    developed with different Flux frameworks.
   Length: 30
   Tags:
     - flux
@@ -24,4 +26,5 @@ Speaker1:
   past_experience: http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example
   email: dmitri.voronianski@gmail.com
   bio: >
-    Dmitri is a full-stack javascript developer, which cares about node.js driven backends in the same way as React/Flux powered frontends.
+    Dmitri is a full-stack javascript developer, which cares about node.js driven backends
+    in the same way as React/Flux powered frontends.
