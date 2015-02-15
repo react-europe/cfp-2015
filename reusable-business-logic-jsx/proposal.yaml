@@ -1,0 +1,49 @@
+---
+Session:
+  Title: Reusable Business Logic Using JSX
+  Description: >
+    Wouldn't it be great if you could reuse and configure your business 
+    logic the same way you configure React components?
+
+    Learn how we built a framework for building models containing 
+    reusable business logic that can be configured using JSX tags, then
+    reconfigured using new props during the model lifecycle.
+
+    The model framework we'll discuss will let you:
+    
+     - Configure models using JSX
+     - Leverage the propTypes validation of React
+     - Pass props down through nested model components
+     - Design stateless models that rely only on props
+     - Use models deterministically across multiple React components
+    
+    From color schemes & data pipelines to spell checkers & routers,
+    using a component architecture lets you reuse your business logic
+    across and within applications. Then, using JSX for configuration, 
+    you can design your applications declaratively, not 
+    programatically.
+    
+  Length: 20
+  Tags:
+    - models
+    - frameworks
+    - reactjs
+
+Speaker1:
+  name: Trevor Lohrbeer
+  twitter: FastFedora
+  github: FastFedora
+  url: http://preview.labescape.com/amaze-early-access-program/
+  past_experience: https://www.linkedin.com/in/trevorlohrbeer
+  email: trevor@fastfedora.com
+  bio: >
+    Trevor Lohrbeer is lead architect and developer of the Amaze Data 
+    Discovery SDK, a new data visualization & visual analytics SDK 
+    being developed by Lab Escape [1] based on its existing Java-based
+    heat map data visualization SDKs.
+    
+    Trevor has been developing data visualization applications for over
+    12 years, and web applications for 20 years. As an early adopter of 
+    JavaScript, he co-authored Dynamic HTML Unleashed. 
+    
+    [1] http://labescape.com/
