@@ -4,7 +4,7 @@ Session:
   Description: >
     While elements take the spotlight in React's virtual DOM, the synthetic events are the backing vocals in the React band. There is not too much documentation while they are in fact an indispensable part of React.
 
-    Synthetic events are normalized between different browsers. This means you might have different behavior than you would normally see in a specific browser. On the other hand you might get events that are not originally supported, like mouse enter and mouse leave. Unfortunately not all events are supported, like HTML5's audio and video events. We'll see how to handle those in our React components.
+    Synthetic events are normalized between different browsers. This means you might have different behavior than you would normally see in a specific browser. On the other hand you might get events that are not originally supported, like mouse enter and mouse leave. Unfortunately not all events are supported, like HTML5's audio and video events. We'll see how to handle those in our React components. Testing synthetic events with Jest will also be handled.
 
     The eventing system is an ingenious piece that translates native events into synthetic events using plugins. We cannot add our own plugins without forking React, but it is worth having a look at the internals to satisfy our curiosity.
 
@@ -15,6 +15,7 @@ Length: 20
     - native events
     - synthetic events
     - unsupported events
+    - jest
 
 Speaker1:
   name: Rick Beerendonk
