@@ -1,0 +1,38 @@
+---
+Session:
+  Title: Everything you wanted to know about ClojureScript and didn't dare to ask
+  Description: >
+    Over the last few years we have seen the rise of browser
+    applications. Instead of rendering all UI server side, JavaScript
+    driven client applications are now being widely adopted. While
+    JavaScript is a flexible and powerful language, it has its
+    shortcomings. This is where languages and tools that compile to
+    JavaScript step in. ClojureScript is one of them and offers its
+    own powerful features to the front end developer. In this talk you
+    will get an overview of what ClojureScript development looks like
+    and how it may simplify your application.
+  Length: 40
+  Tags:
+    - clojurescript
+    - reactjs
+    - languages
+    - immutability
+
+Speaker1:
+  name: Michiel Borkent
+  twitter: borkdude
+  github: borkdude
+  url: http://michielborkent.nl
+  past_experience: 
+  email: michielborkent@gmail.com
+  bio: >
+    Michiel Borkent is a software developer with an interest in
+    functional programming, especially Clojure. He has a master’s
+    degree in Informatics from the University of Twente. Michiel
+    currently works at Finalist as a Clojure and Java developer. In
+    his former job as a lecturer he enjoyed developing and teaching
+    programming courses (C#, Clojure and others). Michiel's hobbies
+    include vegan cooking, drinking coffee and listening to
+    progressive rock and metal.
+
+
