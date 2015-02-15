@@ -1,0 +1,23 @@
+---
+Session:
+  Title: Reactive Visualizations: d3 meets React
+  Description: >
+    For many years, the dominant name in  client-side data visualizations has been d3.  And with good reason: d3 is a extraordinarily flexible and complete dataviz library.
+    But all that power and flexibility comes with a cost: complexity.  Lots of developers struggle with d3's unfamiliar blend of declarative, imperative, and functional paradigms.  Additionally, d3 code re-use has traditionally presented a challenge.
+    Fortunately, React can solve these two problems, and more. My talk will focus on how React provides a suitable framework for d3 visualizations.  I'll also discuss some the challenges we've run into integrating React with d3 in the open-source `react-d3` project, a rapidly growing collection of chart primitives. Using these primitives as building blocks, I'll walk through some example charts and other data visualizations.
+    Finally, I'll discuss what a pure React data visualization framework might look like, and what advantages it might have over a hybrid project.
+  Length: 20
+  Tags:
+    - data visualization
+    - reactjs
+    - frameworks
+
+Speaker1:
+  name: Eric S. Bullington
+  twitter: eric_bullington
+  github: esbullington
+  url: https://ericbullington.com
+  past_experience: various talks at national translator conferences
+  email: eric.s.bullington@gmail.com
+  bio: >
+    Eric S. Bullington is a freelance developer with a focus on data visualization, data analysis, and web development.  He is the lead developer of the open source react-d3 project and has been using React in production since September of last year, including for the frontend of a point-of-sale system. In past lives, Eric worked as a public health epidemiologist and as a medical and pharmaceutical translator.
