@@ -1,0 +1,40 @@
+---
+Session:
+  Title: Patterns of Isomorphic React on the JVM
+  Description: >
+    Sometimes developing modern JS apps can feel like we've taken two
+    steps forward and one step back. SEO takes a hit, the initial load
+    can be a pain for users, and progressive enhancement goes out the
+    window. The prospect of rendering the JS app on the server and
+    serving up HTML on the initial request promises to solve these
+    problem.
+
+    The JVM ships with a new JS runtime (Nashorn) that performs
+    reasonably well, even compared to Node.js. It enables existing
+    webapps on the JVM to benefit from server-side rendering. You can
+    move your whole view layer into React. In this talk we'll explore
+    patterns for running your React app on Nashorn. We'll discuss how to
+    bundle up and load you JS into Nashorn, and some performance
+    implications. We'll look at the Flux pattern and how to get data
+    efficiently across language boundaries and into stores on the
+    server. Finally we'll see how to get routing right in an isomorphic
+    app.
+  Length: 30
+  Tags:
+    - isomorphism
+    - reactjs
+    - jvm
+    - nashorn
+    - flux
+
+Speaker1:
+  name: Martin Solli
+  twitter: msolli
+  github: msolli
+  url:
+  past_experience: https://www.youtube.com/watch?v=m3Cce4R6TV0
+  email: msolli@gmail.com
+  bio: >
+    Martin Solli is a front-end developer at FINN.no in Oslo, Norway. He
+    has built web apps since 1998 across a multitude of platforms and
+    languages.
