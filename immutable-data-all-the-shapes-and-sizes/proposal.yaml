@@ -1,0 +1,53 @@
+---
+Session:
+  Title: Immutable Data: All the Shapes and Sizes
+  Description: >
+    Persistent data structures are a great fit for React; replacing
+    mutable arrays and objects with immutable vectors and hash maps
+    can lead to hugely compelling benefits in terms of robustness
+    (somewhat expected) and performance (who expected that?). This has
+    been demonstrated in a compile-to-JavaScript setting by
+    ClojureScript and Om, and in pure JavaScript by Immutable.js; see
+    Lee Byron's React.js Conf talk for an introduction to the topic.
+
+    The landscape of persistent data structures is vastly richer,
+    however, and this talk aims to explore it in search of specimens
+    of interest to web developers today. In particular, we will take a
+    deep dive into the key implementation ideas behind the following:
+
+      - transients, enabling efficient "batch updates" to persistent
+        data structures (rivalling native mutable built-ins in
+        performance) with no harmful impact to the base PDS semantics;
+
+      - RRB trees, bringing efficient concatenation and slicing to
+        persistent vectors;
+
+      - binary search trees annotated with extra information for
+        sorted dictionaries and sets with logarithmic-time extraction
+        of subsequences and splicing of instances with non-overlapping
+        key ranges;
+
+      - and some more exotic friends and relations of the above.
+  Length: 30
+  Tags:
+    - immutability
+    - data structures
+
+Speaker1:
+  name: Michał Marczyk
+  github: michalmarczyk
+  url: https://github.com/michalmarczyk
+  past_experience: >-
+    "Ephemeral-first data structures" @ Clojure eXchange 2014:
+      https://skillsmatter.com/skillscasts/6028-ephemeral-first-data-structures
+    "Persistent Data Structures for Special Occasions" @ Clojure/conj 2014:
+      https://www.youtube.com/watch?v=Z_iLjL0mc4I
+    "(into reduce transient)" @ EuroClojure 2013 (video not available):
+      http://euroclojure.com/2013/programme/#into_reduce_transient
+  email: michal.marczyk@gmail.com
+  bio: >
+    Long-time contributor to all parts of ClojureScript, including the
+    compiler and the core library; most notably, author of the
+    ClojureScript ports of the persistent map and set types and
+    PDS-related functionality such as transients. Author and
+    maintainer of several Clojure(Script) data structure libraries.
