@@ -1,0 +1,24 @@
+---
+Session:
+  Title: Data-Driven Visualization
+  Description: >
+    D3 is the prime library for building DOM-based visualizations. In addition to a vast collection of functions for manipulating data, it provides a way of describing the DOM in a data-driven and declarative way. However, D3 does not help much with state management, creating reusable components and well-structured applications. React and Flux to the rescue! I will talk about how React and D3 are similar in spirit, where they are fundamentally different, and how this combo can be leveraged to build great and maintainable data-driven visualizations.
+  Length: 30
+  Tags:
+    - d3js
+    - reactjs
+    - visualization
+    - flux
+
+Speaker1:
+  name: Jeremy Stucki
+  twitter: herrstucki
+  github: herrstucki
+  url: http://www.interactivethings.com
+  past_experience: 
+    - https://www.youtube.com/watch?v=IGv0W9PkCoM
+  email: jeremy@interactivethings.com
+  bio: >
+    Jeremy Stucki is a visualization and user interface maker. He is a co-founder of the Swiss design studio Interactive Things, where he leads the development of interactive data visualizations for clients like Neue Zürcher Zeitung and UNESCO.
+
+
