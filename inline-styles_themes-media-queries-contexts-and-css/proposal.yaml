@@ -1,0 +1,30 @@
+---
+Session:
+  Title: Inline Styles: themes, media queries, contexts, and when it's best to use CSS
+  Description: >
+    React allows you to write styles inline and bypass a host of CSS shortcomings. Scope, dependency management, dead code elimination, these problems go away when adding your styles directly to components. But it's not all rainbows and unicorns. Things like theming and media queries become much more difficult when all your styles live directly on components. In this talk, we'll look at how to solve these problems with contexts and plain old JavaScript. We'll also look at the roll of container-components and when it's better to "just use CSS."
+  Length: 20
+  Tags:
+    - reactjs
+    - styles
+    - css
+    - inline-styles
+    - theming
+    - context
+    - responsive
+Speaker1:
+  name: Michael Chan
+  twitter: chantastic
+  github: chantastic
+  url: http://chantastic.io
+  past_experience:
+    - [title, description, url]
+    - [ReactEurope 2015 Ad, Inline Styles talk proposal, http://youtu.be/LSo4hy47qBw]
+    - [Why React?, Recent intro to React.js at Full Stack Talks, https://www.youtube.com/watch?v=xLYDsq_YWvw]
+    - [React.js Conf 2015 Sketch Notes, My notes from the first React.js Conf, http://chantastic.io/2015-reactjs-conf/]
+    - [Learn React screencasts, 3-ish minute videos on React.js, http://learnreact.com/]
+    - [React Patterns, Mostly reasonable patterns for writing React in CoffeeScript., https://github.com/planningcenter/react-patterns]
+    - [Services Live 3.0, Planning Center application in React.js, http://get.planningcenteronline.com/services/live]
+  email: mijoch@gmail.com
+  bio: >
+    Michael Chan is no special flower. He loves ramen and helping JS n00bs learn React. Michael is a developer at Planning Center Online where he gleefully creates shared libraries and components for Planning Center's six applications. Last spring he built the companies first React application, Services Live 3, and continues to develop practices and patterns for writing React.js on Rails.
