@@ -1,21 +1,23 @@
 ---
 Session:
-  Title: Introduction to ClojureScript
+  Title: Reagent, a simple ClojureScript interface to React
   Description: >
-    Over the last few years we have seen the rise of browser
-    applications. Instead of rendering all UI server side, JavaScript
-    driven client applications are now being widely adopted. While
-    JavaScript is a flexible and powerful language, it has its
-    shortcomings. This is where languages and tools that compile to
-    JavaScript step in. ClojureScript is one of them and offers its
-    own powerful features to the front end developer. In this talk you
-    will get an overview of what ClojureScript development looks like
-    and how it may simplify your application.
+    React and ClojureScript fit very well together. The
+    Clojure(Script) community favors libraries over frameworks and
+    React is such a library. React can leverage immutable
+    datastructures to gain more performance using
+    shouldComponentUpdate. The immutable ClojureScript data structures
+    are a perfect fit for this.  Currently there are a couple of
+    actively maintained ClojureScript interfaces to React: Om, Reagent
+    and a couple of others. In this talk you will see how you can
+    build an application with Reagent.
   Length: 30-40
   Tags:
     - clojurescript
+    - reactjs
     - languages
     - immutability
+    - reagent
 
 Speaker1:
   name: Michiel Borkent
@@ -35,5 +37,3 @@ Speaker1:
     programming courses (C#, Clojure and others). Michiel's hobbies
     include vegan cooking, drinking coffee and listening to
     progressive rock and metal.
-
-
