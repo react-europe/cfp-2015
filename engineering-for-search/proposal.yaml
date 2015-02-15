@@ -1,0 +1,46 @@
+---
+Session:
+  Title: Engineering for search
+  Description: >
+    On June 15, 2006, a very special verb was added to the Oxford English
+    dictionary. It describes the act of looking for a product, a service, or
+    information to satsify a need, a desire, or a curiosity. It has become the
+    rallying cry of a networked public. Next time someone invokes it – “let me
+    google that!” – will you appear?
+
+    Engineering plays a major role in closing the gap between a search and your
+    product. This back-to-first-principles talk will explore what makes the web
+    so well suited to answer the kinds of questions your customers are asking,
+    will detail why semantics matter, will deconstruct the steps between the
+    inception of a thought and a conversion on your site, and will show how to
+    engineer for search using React.
+
+    With comScore estimating that over 1.5 billion unique people use a search
+    engine to find what they're looking for every month, can you afford not to
+    be engineering for search? I wouldn't chance it.
+  Length: 30
+  Tags:
+    - reactjs
+    - semantics
+    - search-engines
+    - organic-traffic
+    - server-rendering
+    - search-engine-optimization
+
+Speaker1:
+  name: Steven Luscher
+  twitter: steveluscher
+  github: steveluscher
+  past_experience:
+    - https://storify.com/steveluscher/decomplexifying-ui-with-react
+    - https://www.youtube.com/watch?v=1OeXsL5mr4g
+    - http://lanyrd.com/2014/polyglot2014/sczqzy/
+  email: steveluscher@instagram.com
+  bio: >
+    I build web and mobile applications using HTML, CSS, JavaScript, Ruby, and
+    Objective-C. En-route to becoming a programmer, I made stops at graphic
+    design school and my local university's math department; experiences which
+    have served me well in the area of client-side application development.
+
+    I have the pleasure of working with a world-class team building web
+    interfaces at Instagram, and I teach React at Facebook HQ in Menlo Park.
