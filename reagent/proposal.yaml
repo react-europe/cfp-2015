@@ -4,13 +4,13 @@ Session:
   Description: >
     React and ClojureScript fit very well together. The
     Clojure(Script) community favors libraries over frameworks and
-    React is such a library. React can leverage immutable
-    datastructures to gain more performance using
-    shouldComponentUpdate. The immutable ClojureScript data structures
-    are a perfect fit for this.  Currently there are a couple of
-    actively maintained ClojureScript interfaces to React: Om, Reagent
-    and a couple of others. In this talk you will see how you can
-    build an application with Reagent.
+    React is such a library. React can leverage immutable data
+    structures to gain more performance in shouldComponentUpdate. The
+    immutable ClojureScript data structures are a perfect fit for
+    this. Currently there are a couple of actively maintained
+    ClojureScript interfaces to React: Om, Reagent and a couple of
+    others. In this talk you will see how you can build an application
+    with Reagent with limited knowledge of ClojureScript.
   Length: 30-40
   Tags:
     - clojurescript
