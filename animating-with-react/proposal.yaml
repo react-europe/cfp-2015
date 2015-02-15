@@ -1,0 +1,33 @@
+---
+Session:
+  Title: Animating with React
+  Description: >
+    Animations can turn a mundane functional interface into a fully immersive experience. 
+    They make apps more intuitive and easier to navigate by helping users understand the 
+    context of where they are within our applications. Especially since the introduction 
+    of Material Design and Facebook’s Paper have expectations towards animations and transitions 
+    only grown - and rightly so. 
+    On the web platform, however, animations can quickly turn into an untestable setTimeout() nightmare.
+    
+    In this talk, I’ll cover how React gives us a unique advantage when animating because 
+    it doesn't trash the DOM on state changes, re-rendering, or even navigation. 
+    How can we utilize ReactTransitions to implement maintainable performative animations? 
+    What are the pros and cons of animating with CSS, SVG, or element.animate() in React? 
+    How best to animate draggable objects? And finally, how does React compare to ng-animate and famo.us?
+  Length: 30
+  Tags:
+    - animation
+    - reactjs
+    - frameworks
+
+Speaker1:
+  name: Stefan Ritter
+  twitter: stefanritter
+  github: stefanRitter
+  url: http://www.stefanritter.com
+  past_experience: https://www.youtube.com/watch?v=k_7zdqz01sk
+  email: stefan@stefanritter.com
+  bio: >
+    Stefan Ritter is Product Ninja at Escape The City working in Ror, Node, Backbone, Angular, and now React. 
+    A designer turned hacker, he has a high sensibility for how user interfaces 'feel' and 
+    experience with the painful truth of marrying animations with a maintainable implementation.
