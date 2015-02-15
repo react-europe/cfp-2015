@@ -1,0 +1,38 @@
+---
+Session:
+  Title: Synthetic Events Deep Dive
+  Description: >
+    While elements take the spotlight in React's virtual DOM, the synthetic events are the backing vocals in the React band. There is not too much documentation while they are in fact an indispensable part of React.
+
+    Synthetic events are normalized between different browsers. This means you might have different behavior than you would normally see in a specific browser. On the other hand you might get events that are not originally supported, like mouse enter and mouse leave. Unfortunately not all events are supported, like HTML5's audio and video events. We'll see how to handle those in our React components.
+
+    The eventing system is an ingenious piece that translates native events into synthetic events using plugins. We cannot add our own plugins without forking React, but it is worth having a look at the internals to satisfy our curiosity.
+
+    This talk tries to deepen your knowledge about React events, its strong points, its weaknesses and its internals.
+Length: 20
+  Tags:
+    - events
+    - native events
+    - synthetic events
+    - unsupported events
+
+Speaker1:
+  name: Rick Beerendonk
+  twitter: rickbeerendonk
+  github: rickbeerendonk
+  url: http://blog.rickbeerendonk.com
+  past_experience: >
+    React simplifies the web (in Dutch) @ SDN Event.
+      Slides: http://www.slideshare.net/RickBeerendonk/react-maakt-het
+    Maintainable Software (in Dutch) @ Microsoft TechDays.
+      Video: http://channel9.msdn.com/Events/TechDays/Techdays-2014-the-Netherlands/Niet-onderhoudbare-software-in-10-makkelijke-stappen
+    Building Maintainable Applications (in English) @ JSConf Colombia.
+      Slides: http://rickbeerendonk.github.io/jsconf-colombia-2013/
+    HTML5, JavaScript & C# courses in Norway & The Netherlands (in English):
+      http://www.glasspaper.no/no/Om-oss/Instruktorer/Rick-Beerendonk/
+  email: rick@beerendonk.com
+  bio: >
+    Rick is a senior consultant, coach and trainer from The Netherlands. He has 20 years of professional experience
+    while working in small, large and fast growing organizations. His passion is simplicity, well-written code,
+    webdevelopment and team dynamics. He speaks regularly about these topics at international events. Rick likes to
+    code in JavaScript, ClojureScript and C#.
