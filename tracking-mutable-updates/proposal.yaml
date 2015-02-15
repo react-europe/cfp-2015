@@ -33,7 +33,12 @@ Speaker1:
   twitter: FastFedora
   github: FastFedora
   url: http://blog.fastfedora.com/
-  past_experience: https://www.linkedin.com/in/trevorlohrbeer
+  past_experience: >
+   - ReactConf Promo: https://www.youtube.com/watch?v=2ecfwSyJEV4
+   - Technical Talk: http://www.slideshare.net/fastfedora/under-the-covers-with-the-web-9584360
+   - Non-Technical Talk: https://www.youtube.com/watch?v=hWV3NyAt05Q
+   - Blog: http://blog.fastfedora.com/
+   - LinkedIn: https://www.linkedin.com/in/trevorlohrbeer
   email: trevor@fastfedora.com
   bio: >
     Trevor Lohrbeer is lead architect and developer of the Amaze Data 
