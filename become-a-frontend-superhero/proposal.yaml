@@ -1,0 +1,30 @@
+---
+Session:
+  Title: Become a frontend superhero 
+  Description: >
+    Superheros aren't born, they're made. Discover how you can become
+    a superhero by discovering and using the powers that are available
+    to you as a frontend developer.
+    This is a pumped up, feel-good talk that takes you from zero to hero. 
+    We'll start with a blinking cursor on the command line, and end up with a 
+    superpowered React app.
+  Length: 30
+  Tags:
+    - build tools
+    - testing
+    - node
+    - reactjs
+
+Speaker1:
+  name: Sven Anders Robbestad 
+  twitter: svenardocom
+  github: svenanders
+  url: http://www.robbestad.com
+  past_experience: Speaker at JavaZone 2014 and JFokus 2015. Intro and advanced ReactJS.
+  email: anders@robbestad.com
+  bio: >
+    Sven Anders Robbestad is frontend developer and a senior consultant
+    from Oslo, Norway. He started out in the mid-90s as a humble PHP-MySQL
+    developer. Today, he's a JavaScript and Reactjs evangelist, promoting the
+    power of the frontend stack wherever he goes.
+
