@@ -1,0 +1,26 @@
+---
+Session:
+  Title: Rediscovering css best practices, the Juggler way 
+  Description: >
+If I've learned anything from React is that  ‘best practices’ are not set in stone, they evolve, transform, disappear and suddenly out of out of nowhere they are back (Hi again, Inline CSS). Given the new posibilities that React bring us; What would be the best practices to work with the visual part of the components? How can we discover the best practices to deal with the visual complexity of a web application?
+
+To try to answer this question, I'm starting a project called Component Juggler that  allows me to quickly assess the visual result of my component in its diferent states and external constraints.
+
+I'd like to join me in this little trip with the Juggler and let me show you how to create a small web application, one component at a time, while we use, missuse and contrast the current CSS best practices and discover our own 'best practices' and the correct level of abstraction that work for our components and our web Application.
+
+  Length: 25
+  Tags:
+    - css
+    - inline
+    - best practices
+    - tool
+
+Speaker1:
+  name: Javier Buitrago
+  twitter: javpaw
+  github: javpaw
+  url: http://javierbuitrago.co
+  past_experience: http://javierbuitrago.co/react_europe_past_experience/
+  email: javierbuitrago123@gmail.com.com
+  bio: >
+    Passionate Web Developer for the Last 6 years, currently working on one of the most innovative companies in Latin America, tappsi.co, more about me on https://www.linkedin.com/in/javierbuitrago
