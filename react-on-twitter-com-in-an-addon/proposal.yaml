@@ -1,0 +1,32 @@
+---
+Session:
+  Title: Twitter Assistant - React in https://twitter.com (in a browser addon)
+  Description: >
+    Browsers addons are typically hard to write, especially the part where your addon interacts with a webpage.
+    A website is never written considering addons will be trying to append content to the site, so when writing an addon, hostility from the website has to be assumed, otherwise, the addon stops working every other day.
+    
+    This talk will relates my experience writing Twitter Assistant, a browser addon improving the twitter web experience and especially how React fits in the picture and helps with being robust against changes that can happen in a website. This talk will also relates the experience with the stack I'm using (which includes TypeScript and browserify) and how these pieces fit together with React.
+    
+    At the time of writing this description, an early version of the addon is already available at https://addons.mozilla.org/fr/firefox/addon/twitter-assistant/ (code at https://github.com/DavidBruant/Twitter-Assistant/ )
+  Length: 20
+  Tags:
+    - browser addon
+    - reactjs
+    - robustness
+    - software architecture
+    - TypeScript
+
+Speaker1:
+  name: David Bruant
+  twitter: DavidBruant
+  github: DavidBruant
+  url: 
+  past_experience: https://www.youtube.com/watch?v=7eNFQqMSxtU
+  email: bruant.d@gmail.com
+  bio: >
+    David Bruant in a social entrepreneur dedicating his time and skills to projects he believes in.
+    He contributes to Mozilla and Open Web Standards. He teaches coding to kids and beginner adults.
+    He's recently been awarded three times with France public funds to work on open sources projects
+        * 6element, a web applications helping citizens to find alternative to recycling centers for their waste (selling on second-hand market, donation, repairing, etc.)
+        * MyWebIntelligence, a project surprisingly similar to the recently disclosed DARPA Memex project
+        * Twitter Assistant, the addon described in the talk
