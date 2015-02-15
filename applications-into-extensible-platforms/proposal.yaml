@@ -1,0 +1,58 @@
+---
+Session:
+  Title: How React & Flux Turn Applications Into Extensible Platforms
+  Description: >
+    Chrome is great, but 3rd party extensions make it better. The iPhone
+    is great, but apps make it better. You React-app may be great, but
+    imagine if you could safely and robustly allow 3rd party extensions to
+    enhance it.
+
+    We'll talk about specific features of React & Flux, React CSS,
+    programming design patterns, and custom libraries, which can turn a
+    static application into a dynamic platform that an ecosystem of
+    developers can build on top of.
+
+    We've built a highly-extensible desktop email client with React & Flux
+    on Atom Shell, and we'll also show concrete examples of where these
+    tools enabled a 3rd party ecosystem of email plugins.
+
+    Our goal is for you to take away how to use React to be more than just
+    great application developers, but now great platform developers as
+    well.
+  Length: 20
+  Tags:
+    - platform
+    - extensions
+    - plugin
+    - reactjs
+    - flux
+    - design-pattern
+    - atom-shell
+    - email
+
+Speaker1:
+  name: Evan Morikawa
+  twitter: e0m
+  github: emorikawa
+  url: https://www.linkedin.com/in/evanmorikawa
+  past_experience: https://www.youtube.com/watch?v=rccmUc1bQ4o
+  email: evan@nilas.com
+  bio: >
+    Currently a frontend application engineer at Nilas. Before building
+    email clients, Evan founded & customer-funded Proximate, was a
+    dev-in-residence at Techstars, and graduated Olin College of
+    Engineering with a CS degree.
+
+Speaker2:
+  name: Ben Gotow
+  twitter: bengotow
+  github: bengotow
+  url: http://foundry376.com/
+  past_experience: https://www.youtube.com/watch?v=rccmUc1bQ4o
+  email: ben@nilas.com
+  bio: >
+    Incurable builder, front-end product engineer at Nilas. Formerly
+    principal of @Foundry376, developer of more than 20 iOS apps and the
+    @SparkInspector. Studied HCI at Carnegie Mellon and CS at Vanderbilt
+    University.
+
