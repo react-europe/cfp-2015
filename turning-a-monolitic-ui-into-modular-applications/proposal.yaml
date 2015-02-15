@@ -6,19 +6,20 @@ Session:
     Spending efforts to convince people wary about the hype is not cool either.
     Spending less time chasing bugs **is** cool.
 
-    Instead of pontificating about both technology and change, I spent 3 afternoons to break up an existing Web application into a living and interactive styleguide.
+    I spent 3 afternoons to break up an existing Web application into npm packages and demoed our visual atoms as an autonomous living styleguide.
     When I have been asked how I achieved this so quickly: I answered I created and assembled React.js components.
 
     Developing new features became faster than one would expect.
-    But code reviews and maintenance time diminished as well.
-
+    The time spent in code reviews and maintenance time diminished as well.
+    And even better: now, our UI designers test and prototype their ideas right into the components. They only have to type `npm start` to see their work reflected in their Web browser.
+    
     This talk relates this migration journey:
     - breaking up a common problem through incremental improvement
     - elevating the browserify pipeline to a first class citizen
     - making our interface and components reusable by default
     - building and integrating our shiny components in non-browserified applications
 
-    Basically, this is a story on I turned *frustrated* developers into *happy* composers.
+    Basically, this is a story on how I turned *frustrated* developers into *happy* composers pairing with UI designers.
   Length: 20
   Tags:
     - migration
