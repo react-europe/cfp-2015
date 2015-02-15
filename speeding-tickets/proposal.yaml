@@ -2,29 +2,19 @@
 Session:
   Title: Speeding Tickets
   Description: >
-    Description of my awesome talk goes here, 1000 chars max.
-  Length: 20
+    We'll take a look at how to build a fully featured and exteremely fast movie ticketing web app using React. This talk will cover managing all metadata and the app itself on a CDN, architecting the app to lazy load data, generate complex seat layouts, and communicate with server APIs. We'll also cover designing the UI in a way that allows for easy animations and transitions. 
+  Length: 45
   Tags:
-    - isomorphism
+    - ui
     - reactjs
-    - frameworks
+    - ticketing
 
 Speaker1:
-  name: Jane Doe
-  twitter: JaneDoe
-  github: JaneDoe
-  url: http://janedoe.com
-  past_experience: http://youtube.com?w=My_awesome_past_experience
-  email: jane@doe.com
+  name: Sudhir Jonathan
+  twitter: sudhirj
+  github: sudhirj
+  url: http://www.sudhirjonathan.com
+  past_experience: http://youtube.com
+  email: sudhir.j@gmail.com
   bio: >
-    Bio of speaker1, 500 chars max.
-
-Speaker2:
-  name: John Doe
-  twitter: JohnDoe
-  github: JohnDoe
-  url: http://johndoe.com
-  past_experience: http://youtube.com?w=My_awesome_past_experience
-  email: john@doe.com
-  bio: >
-    Bio of speaker2, 500 chars max.
+    Sudhir Jonathan is an engineer from Chennai, India who spent his formative years at ThoughtWorks working on a wide variety of projects for clients across the world. He now works on Moviebuff and Justickets, crafting software using React, Coffeescript, Ruby and Go. 
