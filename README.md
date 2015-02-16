@@ -1,3 +1,12 @@
+#UPDATE: The CFP is now closed#
+
+Thanks to all those who participated and took time to submit all these awesome proposals! 
+
+We will announce the selected proposals by Wednesday February 25th, 2015.
+In the meantime, don’t hesitate to +1 your favorite proposals in the pull requests comments.
+
+##Original announcement:##
+
 #ReactEurope Call For Papers#
 
 Use this to submit your talk to the ReactEurope conference in Paris in July 2-3 2015.
