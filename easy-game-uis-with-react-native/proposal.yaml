@@ -1,0 +1,25 @@
+---
+Session:
+  Title: Easy Game UIs with React Native
+  Description: >
+    React Native provides a good compromise for making native apps with a workflow similar to the web.
+    It's pretty easy to integrate React Native with any 2d or 3d game, and with the Cmd+R refresh
+    workflow combined with the declarative component style, it just became incredibly easy to make
+    game UIs!
+
+    I will dive into various strategies to integrate React Native with games. I will show how to
+    sync up the UI with game state, and go into details of the JavaScript and Objective-C bridge.
+  Length: 30
+  Tags:
+    - games
+    - react-native
+
+Speaker1:
+  name: James Long
+  twitter: jlongster
+  github: jlongster
+  url: http://jlongster.com
+  past_experience: Can't tell you want a video for this exact talk. Haven't given this one before, but just in case here's a different talk: https://www.youtube.com/watch?v=HL3upR6g1yg
+  email: longster@gmail.com
+  bio: >
+    I love programming language research, and hack on compilers and games in my free time. During the day I work for Mozilla on the Developer Tools.
