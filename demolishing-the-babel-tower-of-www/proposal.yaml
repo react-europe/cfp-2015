@@ -1,0 +1,25 @@
+---
+Session:
+  Title: Demolishing The Babel Tower of WWW with React and Web Components
+  Description: >
+    Dozen of frameworks talking dozen different languages.
+    That is what we have now on the web and this is very likely to The New Babel Tower. However this time there is a chance to break languages barrier ending up with happy end.
+    The talk is about converting React components into Web Components in order to make them talk universal language of HTML and be able to inject them into any project built with any framework or without.
+    Also will put a few words on converting views built with other MVC frameworks.
+  Length: 20
+  Tags:
+    - web components
+    - reactjs
+    - backbone
+    - angular
+    - mvc frameworks
+
+Speaker1:
+  name: Denis Radin
+  twitter: PixelsCommander
+  github: PixelsCommander
+  url: http://pixelscommander.com
+  past_experience: https://www.youtube.com/watch?v=mTQp9rGMtKs
+  email: denis.radin@gmail.com
+  bio: >
+    Front-end engineer working on "embedded JavaScript" in UPC. Passionate about UI experiments and performance optimization. Launching JavaScript to the space and stratosphere in spare time and believe this is a sunrise of interactive revolution. Blogging at PixelsCommander.com
