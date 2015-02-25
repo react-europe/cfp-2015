@@ -1,0 +1,36 @@
+---
+Session:
+  Title: Visual Musical Systems With React
+  Description: >
+    In React you model your app as a tree of components. Data flows down through
+    the tree to update your app. The Web Audio API enables you to create sound
+    by building a graph of AudioNodes. Signals flow through the graph, are
+    modified at each node, and burst out your speakers as sound. These two
+    things are very similar! React is a great fit for building a music creation
+    tool.
+
+    Learn the basics of the Web Audio API, and how we can use React to make and
+    visualize music in the browser. Along the way we'll talk about unique
+    strategies for component communication, and together we will compose and
+    perform The Song Of React.
+
+  Length: 30
+  Tags:
+    - webaudioapi
+    - reactjs
+
+Speaker1:
+  name: Jamison Dance
+  twitter: jergason
+  github: jergason
+  url: http://jamisondance.com
+  past_experience:
+    - https://www.youtube.com/watch?v=QAwbjMdXj-Y
+    - http://confreaks.tv/videos/mwjs2014-hardware-hacking-for-js-developers
+    - https://speakerdeck.com/jergason/134966
+    - https://speakerdeck.com/jergason/notes-from-the-future-beyond-flux
+  email: jergason@gmail.com
+  bio: >
+    Jamison Dance is a co-host of the JavaScript Jabber podcast and a friend to
+    animals. He runs the Utah Orem JavaScript meetup, builds open source
+    education software at Kuali Co, and once spelled it `array.lenght`.
