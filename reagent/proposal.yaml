@@ -1,0 +1,39 @@
+---
+Session:
+  Title: Reagent, a simple ClojureScript interface to React
+  Description: >
+    React and ClojureScript fit very well together. The
+    Clojure(Script) community favors libraries over frameworks and
+    React is such a library. React can leverage immutable data
+    structures to gain more performance in shouldComponentUpdate. The
+    immutable ClojureScript data structures are a perfect fit for
+    this. Currently there are a couple of actively maintained
+    ClojureScript interfaces to React: Om, Reagent and a couple of
+    others. In this talk you will see how you can build an application
+    with Reagent with limited knowledge of ClojureScript.
+  Length: 30-40
+  Tags:
+    - clojurescript
+    - reactjs
+    - languages
+    - immutability
+    - reagent
+
+Speaker1:
+  name: Michiel Borkent
+  twitter: borkdude
+  github: borkdude
+  url: http://michielborkent.nl
+  past_experience: > 
+    This talk has been given before at Oredev 2014.  See my homepage
+    http://michielborkent.nl/ for the video, slides and code.
+  email: michielborkent@gmail.com
+  bio: >
+    Michiel Borkent is a software developer with an interest in
+    functional programming, especially Clojure. He has a master’s
+    degree in Informatics from the University of Twente. Michiel
+    currently works at Finalist as a Clojure and Java developer. In
+    his former job as a lecturer he enjoyed developing and teaching
+    programming courses (C#, Clojure and others). Michiel's hobbies
+    include vegan cooking, drinking coffee and listening to
+    progressive rock and metal.
