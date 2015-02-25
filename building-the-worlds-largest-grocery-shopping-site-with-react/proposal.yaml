@@ -1,0 +1,29 @@
+---
+Session:
+  Title: "Building the world's largest grocery shopping site with React"
+  Description: >
+    Tesco is the world’s third largest retailer, handling half the world’s online grocery shopping.
+    React has transformed UI engineering at Tesco and helped the retailer build large scale isomorphic applications that are fast to run and quick to build.
+    Tesco recently released a fully isomorphic grocery home shopping service for mobile devices in Poland, Turkey, Hungary, Slovakia, Czech Republic, Malaysia and Thailand. It’s built with React.js and Node.js.
+    Stu is CTO at Red Badger and has been a TA at Tesco since early 2014. He will look at the techniques that have been used so far, how they’re evolving and how the use of immutable data and cursors is helping to enhance the user experience and speed up and simplify development.
+    Red Badger is also building and maintaining Reflex, an open source framework that makes it easy to create fully isomorphic applications with React using centralised state.
+    Stu will cover how this framework distills our learnings and can help you structure new isomorphic applications and gain all the benefits of using a single immutable data structure to manage your application state.
+
+  Length: 20
+  Tags:
+    - isomorphism
+    - immutable
+    - cursors
+    - reactjs
+    - reflex
+    - frameworks
+
+Speaker1:
+  name: Stuart Harris
+  twitter: StuartHarris
+  github: StuartHarris
+  url: http://red-badger.com
+  past_experience: https://www.youtube.com/watch?v=JYqnL3di0-k
+  email: stuart.harris@red-badger.com
+  bio: >
+    Stu is CTO and a founder of Red Badger in London, a creative software workshop. We help large organisations to work like lean startups, helping them craft innovative experiences using robust technology.
