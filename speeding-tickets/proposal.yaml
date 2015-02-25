@@ -1,0 +1,20 @@
+---
+Session:
+  Title: Speeding Tickets
+  Description: >
+    We'll take a look at how to build a fully featured and exteremely fast movie ticketing web app using React. This talk will cover managing all metadata and the app itself on a CDN, architecting the app to lazy load data, generate complex seat layouts, and communicate with server APIs. We'll also cover designing the UI in a way that allows for easy animations and transitions. 
+  Length: 45
+  Tags:
+    - ui
+    - reactjs
+    - ticketing
+
+Speaker1:
+  name: Sudhir Jonathan
+  twitter: sudhirj
+  github: sudhirj
+  url: http://www.sudhirjonathan.com
+  past_experience: TBA
+  email: sudhir.j@gmail.com
+  bio: >
+    Sudhir Jonathan is an engineer from Chennai, India who spent his formative years at ThoughtWorks working on a wide variety of projects for clients across the world. He now works on Moviebuff and Justickets, crafting software using React, Coffeescript, Ruby and Go. 
