@@ -1,0 +1,42 @@
+---
+Session:
+  Title: One year and a half with React
+  Description: >
+    We've been using React since the very beginning of 2014 for a big multi-sites project.
+    We were a team of consultants from different companies with different backgrounds (Java,
+    Javascript, Scala, Clojure, HTML/CSS). When we assessed and choose React, we had no
+    previous experience with it. We did not regret that choice.
+    In this talk I will explain how we used React, from writing code to building, testing
+    and scaling the development. I will share the challenges of code quality and code reuse
+    we faced, and where React shines, and where it doesn't. I will show some of the pages we created
+    and explain how React helped us achieve the results.
+  Length: 20
+  Tags:
+    - experience
+    - reactjs
+    - challenges
+    - team
+    - data
+    - browserify
+    - d3
+    - maven
+    - test
+    - selenium
+
+Speaker1:
+  name: Khalid Jebbari
+  twitter: Dj3bbZ
+  github: djebbz
+  url: http://github.com/djebbz
+  past_experience: https://www.youtube.com/watch?v=ZPCLrsyxZPE
+  email: khalid.jebbari@gmail.companies
+  bio: >
+    Khalid Jebbari is a web developer with a love for open-source and knowledge sharing.
+    Since he started working, with the Drupal PHP CMS, he got involved with the local Drupal Paris community.
+    After leaving the Drupal world and getting seriously into Javascript, he now runs
+    the monthly Paris.js meetup, where people gather to share all things Javascript.
+
+    Khalid Jebbari thinks React is a real game changer in the way we develop web UIs,
+    and after discovering Functional Programming and getting in love with Clojure(script),
+    he's very happy to see the React and the ClojureScript communities sharing common ideas
+    and pushing the web forward together.
