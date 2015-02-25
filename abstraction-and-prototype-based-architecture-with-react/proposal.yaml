@@ -1,0 +1,40 @@
+---
+Session:
+  Title: Abstraction and Prototype-based architecture with React
+  Description: >
+    An important approach for React (or any other framework), is creating 
+    an abstractional layer upon our libraries. The power of React is not 
+    a massive top-level API, but reusability of components and replacing 
+    our views with simple classes and complex elements. Building of 
+    abstractional layers besides React, Angular or Backbone is the best 
+    approach for keeping your code separated from frameworks, but still using 
+    its benefits. 
+    
+    How to well attach React on object prototype? How to combine React with 
+    Polymer and encapusate custom HTML code within the web components, that 
+    are going to be a standard in a few years? How to structure your code in
+    a way, where a next version of framework will not ruin your existing
+    application? I don't have any magical answer, but a small clue and some 
+    experiences.
+  Length: 20
+  Tags:
+    - abstraction
+    - reactjs
+    - javascript
+    - architecture
+    - es6
+
+Speaker1:
+  name: Samuel Ondrek
+  twitter: ondrek
+  github: ondrek
+  url: https://ondrek.com
+  past_experience: No videos so far.
+  email: samuel(a)ondrek(d)com
+  bio: >
+    Samuel is a software architect and builds enterprise applications with 
+    Polymer, React, the Closure library and the custom events for one of 
+    the biggest bank in Europe. In last years he used to work in Seoul, Amsterdam 
+    and Vienna. He gave a few presentations in Holland as a speaker as well.
+    He tweets for almost 7k developers and loves pushing open source and building
+    NPM packages.
