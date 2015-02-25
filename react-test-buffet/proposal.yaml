@@ -1,0 +1,44 @@
+---
+Session:
+  Title: Testing React components the right way
+  Description: >
+    Did you ever introduce a mistake in the `render()` method and have your
+    tests that check the callbacks fail? Did you ever introduce a mistake in one
+    of your component's children and have the parent's tests fail? Is your test
+    suite slow and to work around it you only run part of it?
+
+    I answered yes to all of those questions a while ago and I was very
+    frustrated. So I decided to rewrite our testing framework from the ground
+    up. We managed to transition from slow running integrated tests to fast
+    highly focused tests. Now when a mistake is introduced into a component,
+    only the relevant tests fail and we immediately know where to debug.
+
+    In this presentation I'll talk about the theory of collaboration and
+    contract tests and how we can apply it to React components. I'll then delve
+    into the techniques we use to write tests that only check the behaviour that
+    we want to check.
+  Length: 20
+  Tags:
+    - reactjs
+    - testing
+    - tdd
+    - unit
+    - collaboration
+    - contract
+
+Speaker1:
+  name: Andrei Picus
+  twitter: NiGhTTraX
+  github: NiGhTTraX
+  url: http://www.nightcrawler.ro
+  email: andrei.picus@gmail.com
+  bio: >
+    Andrei is a full stack software engineer at Hootsuite. He's currently
+    working on developing the UI for the new analytics product powered entirely
+    by React.  He's passionate about TDD and improving code quality and sharing
+    his knowledge with everyone.
+
+    Andrei fell in love with JavaScript after writing his first dropdown menu.
+    When he's not writing code he likes to research hot peppers and look for
+    out of print comic books.
+
