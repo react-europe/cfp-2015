@@ -1,0 +1,47 @@
+---
+Session:
+  Title: Pulling the Style out of CSS
+  Description: >
+    As web developers, we go to great lengths to write scalable CSS. We use
+    preprocessors, naming conventions, and a host of other rules and best
+    practices. In many cases the goal is to work around some of the things CSS
+    is designed to do, such as selectors and the cascade. What if there were a
+    better way?
+
+    Instead, let's drop the "Cascading" and the "Sheets" from CSS. Building on
+    vjeux's introduction to using inline styles with React [1], Ian walks you
+    through what it takes to convert an app [2] from plain old CSS to plain old
+    JavaScript. While you get to avoid "specificity hell" and use all the
+    niceties of JS, we'll take a look at how you can replicate the little things
+    we take for granted in our CSS workflow, like :hover states, animations,
+    media queries, and vendor prefixing, and how we can use React specific
+    features to make styles even better. For some code spoilers, check out [3].
+
+    [1] https://speakerdeck.com/vjeux/react-css-in-js
+    [2] https://github.com/ianobermiller/nuclearmail
+    [3] https://github.com/ianobermiller/nuclearmail/blob/master/src/js/InteractiveStyleMixin.js
+  Length: 20
+  Tags:
+    - reactjs
+    - css
+    - inline-styles
+    - maintainability
+
+Speaker1:
+  name: Ian Obermiller
+  twitter: ianobermiller
+  github: ianobermiller
+  url: http://ianobermiller.com
+  past_experience: >
+    Talk proposal video: https://www.youtube.com/watch?v=SqaHT4HBRzE
+    Flux Panel at React.js Conf 2015: http://conf.reactjs.com/schedule.html#flux-panel
+  email: ian@obermillers.com
+  bio: >
+    Ian Obermiller is a front end engineer at Facebook. He's built Atlas, one of the
+    largest React+Flux applications in the world, from the ground up over the
+    last year and half, and loves to experiment with open source projects to
+    push the boundaries of web application development.
+
+    Ian is an active contributor to the React community, particularly around
+    Flux, and recently ignited a passion for spreading new ideas and best
+    practices at React.js Conf 2015.
