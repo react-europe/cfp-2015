@@ -1,0 +1,55 @@
+---
+Session:
+  Title: Simplifying the data layer
+  Description: >
+    At Twitter, teams have starting adopting React because it’s enabled
+    UI engineers to forget about time when writing rendering code.
+    And we've started exploring similar simplifications in the data
+    layer, embracing the UI’s role as part of a distributed system.
+
+    First, we'll share how user experience choices are a primary influence on
+    how we design the data layer, especially for teams developing new products
+    with full-stack capabilities.  Working with data from multiple backend
+    services has powerful benefits, and shapes the problem space for
+    UI engineering.
+
+    Next, we'll look at how React and Flux approaches can help in our
+    problem scenarios.  Yet even after the advances in React’s component model,
+    the data layer is still an important source of complexity as an app grows
+    and changes over time.
+
+    Finally, we'll look at new approaches we’ve been exploring, and how designs
+    like decoupling 'recording facts' from 'computing views of those facts'
+    have influenced UI engineering.  These designs nudge teams towards
+    simplicity when creating impactful user-facing improvements like
+    real-time updates, optimistic commits, and graceful handling of
+    network outages.
+
+
+  Length: 30
+  Tags:
+    - user experience
+    - data
+    - caching
+    - state
+    - immutability
+    - full-stack
+
+Speaker1:
+  name: Kevin Robinson
+  twitter: krob
+  github: kevinrobinson
+  url: n/a
+  past_experience: none publicly recorded
+  email: krobinson@twitter.com
+  bio: >
+    Kevin's especially interested in exploratory data science and visualization,
+    working to create user experiencers that directly help users do what they need
+    to to, or understand what they need to know.  He loves connecting knowledge from
+    different fields, and at the moment is particularly inspired by work from the
+    React and ClojureScript communities.
+
+    He currently works as an engineer at Twitter in Boston, as part of the Fabric team
+    developing tools for mobile developers.  In a past career, he worked as a teacher
+    and continues to volunteer working with high-school and undergraduate students
+    teaching about engineering.
