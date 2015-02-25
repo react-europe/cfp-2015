@@ -1,0 +1,31 @@
+---
+Session:
+  Title: Isomorphic Flux
+  Description: >
+    Flux provides a good framework for building rich client applications, but
+    did you know you can reuse the flux architecture for server rendering? In
+    this talk, I'll walk you through an isomorphic Flux architecture to give
+    you the holy grail of frontend development. With this architecture you'll be
+    able to reuse all of your application code on the server and client without
+    worrying about server-side concurrency issues that you may see with stock
+    Flux.
+
+    Once the concepts have been explained, I will introduce the open source
+    libraries that we have open sourced and are powering many of Yahoo's
+    high-traffic web applications.
+  Length: 30
+  Tags:
+    - isomorphism
+    - flux
+    - frameworks
+
+Speaker1:
+  name: Michael Ridgway
+  twitter: TheRidgway
+  github: mridgway
+  url: http://theridgway.com
+  past_experience: https://speakerdeck.com/mridgway/isomorphic-flux
+  email: mridgway@yahoo-inc.com
+  bio: >
+    Mike is software engineer at Yahoo working on node.js and React/Flux
+    frontends that power high-traffic web applications.
