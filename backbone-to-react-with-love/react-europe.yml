@@ -1,0 +1,21 @@
+---
+Session:
+  Title: >
+    Backbone to React with love.  How, why and what that can teach us.
+  Description: >
+    Do you have complex UI code? Performance issues? Is productivity a challenge? Learn how switching to React has helped Server Density solve these issues and why it's made me so very very happy. In this talk I will share 4 things. 1: How React solves the problems you will face with a long-running backbone code-base. 2: How you can gradually migrate to React whilst still shipping new features. 3: What our Backbone and React experiences can teach you about good code vs awesome code. 4: Direct comparisons of Backbone UI's vs React rewrites. This talk will share first hand experiences that prove that React is a solid choice for complex UI's. I can't wait.
+  Length: 20
+  Tags:
+    - backbone
+    - reactjs
+    - jasmine
+
+Speaker1:
+  name: Richard Powell
+  twitter: byrichardpowell
+  github: byrichardpowell
+  url: http://byrichardpowell.co.uk
+  past_experience: http://devslovebacon.com/conferences/bacon-2014/talks/what-shouldnt-happen-will-happen
+  email: richardo@gmail.com
+  bio: >
+    UI Developer & Designer at Server Density.  I give JavaScript workshops, presentations & write the odd article. Currently obssesed with the how and why of good code and design.  Lover of Snowboarding, the gym & F1.
