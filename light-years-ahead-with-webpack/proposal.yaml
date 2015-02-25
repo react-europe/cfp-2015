@@ -1,0 +1,26 @@
+---
+Session:
+  Title: Light years ahead with Webpack
+  Description: >
+    An efficient static assets pipeline not only makes your application faster and cut down your CDN costs, it is also the key to a more maintainable and reliable application.
+    By making dead code elimination a breeze - even for CSS! -, by fulfilling this old dream of a dev environment matching its production counterpart, by increasing your velocity while coding with live reload and hot module replacement and finally by automatically optimizing your static assets, Webpack will exceed all your expectations.
+    Its ground-breaking approach to components makes it the ideal companion for React.
+    I will get you up and running in a matter of minutes with a sample application built with React and share with you a few valuable pro tips. So are you ready for warp speed?
+  Length: 40 (or 20, your call)
+  Tags:
+    - reactjs
+    - webpack
+    - web performance
+    - maintainability
+    - build process
+    - velocity
+
+Speaker1:
+  name: Alexandrine Boissière
+  twitter: theasta
+  github: theasta
+  url: http://www.theasta.net
+  past_experience: I'm about to give a similar, though more generic, talk about Webpack at the Applicative Conference in New York on Feb 26th. This talk will focus more on how beneficial Webpack is to React applications.
+  email: theasta@gmail.com
+  bio: >
+    Parisian for years, Vancouverite since 2011, Alexandrine Boissière is a Technical Engineering Manager at Hootsuite. She is responsible for designing a sustainable front-end architecture that is both scalable and re-usable.
