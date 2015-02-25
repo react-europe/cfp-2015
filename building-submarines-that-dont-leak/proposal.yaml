@@ -1,0 +1,33 @@
+---
+Session:
+  Title: Building submarines that don't leak
+  Description: >
+    React provides us with a lot of tools for building components, but
+    isn't prescriptive about how we use those. Objects can have props,
+    state, and instance fields. When is it best to use each?
+
+    We've heard a lot about pure components, but how do we make pure
+    components when we have to deal with the realities of a stateful
+    world? How do we make more complex components whose props actually
+    represent them?
+
+    We'll cover how we've answered these questions at Khan Academy,
+    including techniques and patterns to make dealing with large pure
+    components simpler, as well as current open questions.
+  Length: 20
+  Tags:
+    - reactjs
+    - components
+    - purity
+    - interfaces
+
+Speaker1:
+  name: Aria Buckles
+  twitter: ariabuckles
+  github: ariabuckles
+  email: aria@khanacademy.org
+  bio: >
+    Aria has been building interactive educational experiences with React
+    at Khan Academy since September 2013, and maintains one of the oldest
+    large React codebases outside of Facebook.
+
