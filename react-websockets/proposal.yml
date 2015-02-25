@@ -1,0 +1,35 @@
+---
+Session:
+  Title: Moving Fast: React and WebSockets
+  Description: >
+    At its core, React is all about building scalable and performant applications, especially when dealing
+    with data that is constantly changing over time. If we consider a real-time application, where the client
+    and server need to talk to each other constantly, that's when WebSockets come to mind - allowing a user's
+    browser to open an interactive session with a server.
+    
+    Put React and WebSockets together and now we are moving fast. But are we moving too fast? Can the browser
+    keep up with the constant flow of new data over time? Imagine a real-time dashboard built in React, being
+    constantly fed data from Twitter's streaming API; how do you manage that?
+    
+    In this presentation we will be looking at how to best use React and WebSockets together to build really
+    fast applications, while addressing all of the above questions.
+  Length: 20
+  Tags:
+    - reactjs
+    - websockets
+    - performance
+    - speed
+Speaker1:
+  name: Andreas Savvides
+  twitter: andreassavvides
+  github: AnSavvides
+  url: http://ansavvides.github.io/
+  past_experience: http://www2012.org/proceedings/companion/p313.pdf
+  email: andreas@editd.com
+  bio: >
+    Andreas has been working as a full-stack Software Engineer at EDITD for the last 2.5 years, with a heavy
+    focus on building fast and interactive single page applications with rich data visualisations.
+    Previously, he worked at IBM for a year as an Application Developer - his first job after completing an
+    MSc in Computer Science at the University of Oxford.
+    In his spare time, Andreas helps female graduates to learn to code as a Mentor/Lead Instructor for Code
+    First: Girls.
