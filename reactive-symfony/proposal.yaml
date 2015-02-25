@@ -1,0 +1,36 @@
+---
+Session:
+  Title: Reactive symfony
+  Description: >
+    When you are working in an already-running environment it's not easy to 
+    incorporate a totally new technology, especially when your backend technology 
+    is based on a different language. You have to deal with complicated security 
+    and performance issues and you can quickly realize there are no existing tools 
+    to help you resolve problems you’re facing.
+    This presentation is a full blown example of React.js integration into 
+    an existing project, using PHP and one of its best framework Symfony 2. 
+    In this step-by-step guide I’ll show you how to approach most difficult 
+    parts of the whole process. From architectural decision, through server side 
+    integration with well-established framework components in bilingual environment, 
+    to painless deploy using modular npm workflow. You’ll learn how to take full 
+    advantage of using React with your backend, when a simple API client 
+    architecture is not enough.
+  Length: 30
+  Tags:
+    - server side generation
+    - reactjs
+    - PHP
+    - symfony2
+
+Speaker1:
+  name: Karol Jastrzębowski
+  twitter: KJastrzebowski
+  github: Jastrzebowski 
+  url: http://jastrzebowski.github.io
+  past_experience: https://vimeo.com/117194598
+  email: karol.jastrzebowski@gmail.com
+  bio: >
+    Passionate front-end developer and architect, UI/UX designer in his spare-time. 
+    For more than 5 years worked for Agora SA, one of the biggest media company 
+    in Eastern Europe. Currently senior frontend at GoldenLine the number one 
+    professional social network in Poland.
