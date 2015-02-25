@@ -1,0 +1,33 @@
+---
+Session:
+  Title: Rewriting React for Fun and Profit
+  Description: >
+    React provides a better, declarative interface for thinking about
+    user interfaces, but most non-react interface libraries are mutable
+    and stateful. How do we make these interop with our React code in
+    sane ways?
+
+    We'll cover some approaches to contain a single use of a mutable
+    API to one component, but mostly focus on how to build a generic
+    React interface around a mutable API, so that many components can
+    use it without having to think about state manipulation.
+
+    We'll walk through how we did this with our graphing library at
+    Khan Academy, and how you can do it too!
+  Length: 20
+  Tags:
+    - reactjs
+    - components
+    - interfaces
+    - declarative
+
+Speaker1:
+  name: Aria Buckles
+  twitter: ariabuckles
+  github: ariabuckles
+  email: aria@khanacademy.org
+  bio: >
+    Aria has been building interactive educational experiences with React
+    at Khan Academy since September 2013, and maintains one of the oldest
+    large React codebases outside of Facebook.
+
