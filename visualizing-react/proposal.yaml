@@ -1,0 +1,38 @@
+---
+Session:
+  Title: Visualizing React
+  Description: >
+    Want to better understand the "magic" behind your React applications?
+    We'll help uncover React's inner workings with three custom-built demos that
+    highlight core react features in a visual way, to help developers truly
+    "grok" what's happening under the hood of their React-backed applications.
+    
+    Demos will included visualizations and discussions around:
+    - DOM Diffing: what's actually happening to your DOM?
+    - Synthetic Events: how does object pooling work?
+    - Data Flow: with examples using the Flux Dispatcher
+  Length: 20
+  Tags:
+    - visualization
+    - reactjs
+    - dom-diffing
+    - synthetic-events
+    - data-flow
+    - d3
+    - demos
+
+Speaker1:
+  name: Ben Anderson
+  twitter: ben_anderson
+  github: banderson
+  url: http://banderson.me
+  past_experience:
+    - https://www.youtube.com/watch?v=uwnjDXtJufs
+    - http://fluentconf.com/javascript-html-2015/public/schedule/detail/39163
+  email: banderson87@gmail.com
+  bio: >
+    I've been creating things on the web for more than 15 years, driven by a
+    strong belief in the open web platform and enthusiasm for open source.
+    As a front-end specialist with a full-stack background, I've come to greatly
+    appreciate React's programming model for building robust application UIs,
+    and want to help promote this simpler way of building apps for the web.
