@@ -1,0 +1,52 @@
+---
+Session:
+  Title: React like it's 1999
+  Description: >
+    React is great for building rich JavaScript UIs in the browser, 
+    but rendering HTML on the server is still a fact of life for many
+    developers. Can React still be useful if we time-travel back to when
+    server rendered HTML was the norm?
+
+    We'll take a look at the murky, hostile environment that is the
+    modern web browser, exploring the ways browser extensions, network 
+    conditions & device capabilities can mess with your client side JavaScript.
+
+    Then we'll examine the current server side templating landscape,
+    looking closely at ease of development, testability & maintainability,
+    and compare the existing options with rendering React components on
+    the server.
+
+    Finally we'll take a quick introductory tour of the world of isomorphic
+    React, bringing together the slick UI of single page applications with
+    the robustness & stability of server rendered HTML.
+ 
+  Length: 20
+  Tags:
+    - isomorphism
+    - reactjs
+    - testing
+    - nodejs
+    - components
+    - maintainability
+    - browser_extensions
+
+Speaker1:
+  name: Ben Smithett
+  twitter: bensmithett
+  github: bensmithett
+  url: http://bensmithett.com
+  past_experience:
+    - https://vimeo.com/96459341
+    - https://vimeo.com/61770967
+    - Not video, but closely related to this proposal http://bensmithett.github.io/going-isomorphic-with-react/
+    - More slides from non-video talks available at http://bensmithett.com
+  email: ben@bensmithett.com
+  bio: >
+    Ben is a very tall Australian developer at who spends his days at Envato 
+    building robust UIs for a massive community of developers & designers, 
+    as well as constantly ranting to other developers about the benefits of 
+    React, Flux & isomorphic JavaScript.
+
+    At night you'll find him pushing experiments to GitHub, singing karaoke
+    or enthusiastically planning a trip to a brand new city.
+
