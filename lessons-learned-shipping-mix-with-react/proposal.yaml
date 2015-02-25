@@ -1,0 +1,64 @@
+---
+Session:
+  Title: Lessons learned shipping Mix
+  Description: >
+    FiftyThree creates tools (Paper, Pencil, Mix) to make creativity accessible
+    to everyone. In the fall of 2014, we shipped our web service and client Mix
+    which enables collaborative creation (mix.fiftythree.com).
+    What you may not know, is that Mix was a backbone app three short months
+    before shipping. This talk will focus on porting, building, shipping, and
+    continuing to grow a live React app with a large user base. Mix is an
+    isomorphic JS app running on a node.js backend taking advantage of React’s
+    server side rendering.
+    Mix, as the web client sister to the app Paper for iPad, uses React to
+    render a very design driven experience. Topics of focus will include
+    breaking down our component design for optimistic view rendering, creating
+    and using SVG react components, building out our client side graph cache
+    with React state, and issues we encountered in the weeks before shipping
+    (and how we solved them).
+  Length: 45
+  Tags:
+    - isomorphism
+    - reactjs
+    - design
+
+Speaker1:
+  name: Tara Feener
+  twitter: tfeener
+  github: tarajane
+  url: http://tarajane.me
+  past_experience:
+    Lessons Learned Making Mix, Oct 23, 2014, Manhattan JS:
+      https://tarajane-manhattanjs-react.herokuapp.com/
+    FiftyThree Expore Release, July 10, 2013, New York Tech Meetup:
+      http://goo.gl/NAqWWh
+    Create the Web, September 24, 2012, Adobe:
+      https://www.youtube.com/watch?v=IiXnazocB30
+  email: tara@fiftythree.com
+  bio: >
+    Front-end engineer at FiftyThree in New York, working at the intersection of
+    design, engineering and product. Previously an engineer at Adobe in San
+    Francisco focused on designer and developer tools for Creative Cloud, and
+    more recently prototyped future tools for the web. Passionate about coffee,
+    photography, travel, drawing, and fashion.
+    Originally from Newfoundland, Canada.
+
+Speaker2:
+  name: G. Scott Olson
+  twitter: gscottolson
+  github: gscottolson
+  url: http://about.me/gscottolson
+  past_experience:
+    Building Mix with React, Oct 16th, 2014, Brooklyn JS:
+      http://bit.ly/mix-with-react
+    Engineering Fluid Text Inputs with React:
+      http://making.fiftythree.com/fluid-text-inputs/
+    Over 15 years of stage experience performing sketch, improv and stand-up comedy:
+      http://vimeo.com/66102814
+  email: scott@fiftythree.com
+  bio: >
+    Designer, developer and maker. Spent more than two years building awesome web
+    experiences at FiftyThree. Owned and operated my own yoga studio in Chicago and
+    built some web stuff at LinkedIn and Orbitz. Passionate about public speaking
+    and had the pleasure of performing in front of a crowd of 500+. Keeping busy
+    with cooking, documentary film, drawing, and poker.
