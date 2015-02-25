@@ -1,0 +1,30 @@
+---
+Session:
+  Title: A deep dive into GraphQL
+  Description: >
+    At React.js Conf last January, we introduced the idea of GraphQL: a data fetching language that allows clients to declaratively describe their data requirements. In this talk, we'll take a deeper dive into GraphQL. How can we build a GraphQL API to work with an existing REST API or data model? What are best practices in building out our GraphQL APIs, and how do they differ from traditional REST best practices? How does GraphQL handle writes and consistency after a write has occurred? Most importantly, what does a complete and coherent GraphQL API looks like, and how can we get started building one?
+  Length: 30
+  Tags:
+    - graphql
+    - reactjs
+    - relay
+
+Speaker1:
+  name: Nick Schrock
+  twitter: schrockn
+  github: schrockn
+  url: http://www.facebook.com/schrockn
+  past_experience: https://www.youtube.com/watch?v=mLSeEoC6GjU
+  email: schrockn@fb.com
+  bio: >
+    Nick Schrock is a co-creator of GraphQL, and wrote the original version of Facebook's GraphQL engine. An original member of Facebook's Product Infrastructure team, Nick helped create the abstractions that power Facebooks's PHP data model, and built out the Facebook's iOS and Android tooling around GraphQL.
+    
+Speaker2:
+  name: Dan Schafer
+  twitter: dlschafer
+  github: dschafer
+  url: http://www.facebook.com/dschafer
+  past_experience: http://youtube.com?w=9sc8Pyc51uU
+  email: dschafer@fb.com
+  bio: >
+    Dan Schafer is a co-creator of GraphQL, and designed the data model backing the original GraphQL API, which powered Facebook's news feed. He added GraphQL's support for writes, and has helped maintain Facebook's GraphQL engine and APIs for almost three years.
