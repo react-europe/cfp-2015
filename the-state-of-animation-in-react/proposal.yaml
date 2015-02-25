@@ -1,0 +1,22 @@
+---
+Session:
+  Title: The State of Animation in React
+  Description: >
+    A talk on the past, the present and the future of animation, and the place
+    React can potentially take in this. I will be focusing on a few experiments
+    on animation I've done, specifically: react-tween-state, react-state-stream
+    and some unreleased transition-group related thoughts and work.
+  Length: 30 - 40
+  Tags:
+    - animation
+    - react
+    - tween
+
+Speaker1:
+  name: Cheng Lou
+  twitter: @_chenglou
+  github: chenglou
+  past_experience: React developer at Facebook; independent Flash developer
+  email: chenglou92@gmail.com
+  bio: >
+    I started making manual animation in Flash, and never really left in spirit.
