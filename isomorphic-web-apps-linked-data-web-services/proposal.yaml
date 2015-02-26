@@ -1,0 +1,23 @@
+---
+Session:
+  Title: "Building an isomorphic web application with React, Python and JSON Linked Data"
+  Description: |
+    ENCODEproject.org is the central hub for a large collaborative genome sequencing project. It's vital that our content is indexable by search engines and visitor landing pages load quickly. React's server-rendering support allows us to serve HTML on first page load by pushing our web service response through our web application running in a Node JS subprocess, signficantly reducing landing page load times.
+    Our web service is built to expose JSON Linked Data (JSON-LD), a standard for expressing the semantic content of JSON formatted data. This opens up the possibility for others to present or integrate our data in new ways, but even within a single application exposing type information on resources has allowed us to avoid duplicating routing logic on both browser and server. Embedding support allows data for multiple required resources to be combined into a single response, avoiding extra round trips.
+
+  Length: 20
+  Tags:
+    - isomorphism
+    - reactjs
+    - jsonld
+    - python
+
+Speaker1:
+  name: Laurence Rowe
+  twitter: laurencerowe
+  github: lrowe
+  url: http://laurencerowe.net
+  past_experience: http://vimeo.com/111019942
+  email: lrowe@stanford.edu
+  bio: >
+    After many years as an itinterant consultant and core contributor to the Plone CMS, Laurence currently leads development of the ENCODE genomic data portal at Stanford University.
