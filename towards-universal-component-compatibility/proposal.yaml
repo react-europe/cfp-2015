@@ -1,0 +1,28 @@
+---
+Session:
+  Title: Towards universal component compatibility
+  Description: >
+    The JS community is suffering from a chronically fragmented open-source ecosystem. Third-party modules inspire a barrage of questions among developers: Is this what I want? Does it work? Is it reliable? Unfortunately, the common answer is “let’s roll our own”. Thousands of engineers have built amazing abstractions, yet we waste our time re-inventing vertical centering.
+    Envision a future where web development is Lego: As the number of open-source components skyrockets, we have a standard way of sharing, typing, documenting, testing, and advertising components. Luckily, utopia is within reach! React's compact component API makes composition trivial. While this is a great start, further standardization is needed to allow universal composition and re-use.
+    This talk examines how to make React components 100% composable and discoverable across the web, motivate the ecosystem to favor re-use over re-implementation, and how to ultimately lower the bar for participation in digital creation.
+
+  Length: 30
+  Tags:
+    - javascript
+    - open-source
+    - npm
+    - reactjs
+    - testing
+    - composition
+    - community
+    - interfaces
+
+Speaker1:
+  name: Jonas Gebhardt
+  twitter: jonasgebhardt
+  github: jgebhardt
+  url: http://jonasgebhardt.com
+  past_experience: no recordings :/
+  email: jonas@instagram.com
+  bio: >
+    Jonas Gebhardt is a UI Engineer at Facebook, where he builds React-driven apps for instagram.com. He has a long-standing passion for designing and developing people-centric technology, with past work spanning Hollywood VFX tools to building room-sized multi-touch devices. Jonas previously studied Human-Computer Interaction at Carnegie Mellon University and Software Engineering at Hasso Plattner Institute.
