@@ -1,0 +1,47 @@
+---
+Session:
+  Title: State of the State
+  Description: >
+    Designing long-running web applications, coming from request-response
+    web development, is like a trusted friend developing a bipolar disorder.
+    In both cases we have to deal with change at unexpected times and in
+    unexpected ways.
+
+    React is great, because it frees us from worrying about change at
+    the view layer. But it doesn’t help us manage the state in other
+    parts of our applications.
+
+    This presentation will serve as an overview of the approaches for
+    making state changes more manageable.
+
+    Here are some of the questions we will discuss:
+      - How can all parts of the app (components, remote requests, server pushes) communicate with the global state?
+      - Where can we keep interaction state spanning more then one component?
+      - Do we need local state at all and what are the trade-offs of using global state only?
+      - What are some implementations of those approaches? Stores (flux), global heirarchical structures + cursors (Om, Morearty, Reagent), in-browser databases (DataScript, LokiJS).
+
+  Length: 20
+  Tags:
+    - reactjs
+    - frameworks
+    - state
+    - local state
+    - global state
+    - om
+    - flux
+    - datascript
+
+Speaker1:
+  name: Nikolay Bachiyski
+  twitter: nikolayb
+  github: nb
+  url: http://extrapolate.me/
+  past_experience: >
+    Selected relevant past presentations:
+      - “Else” considered harmful @ JS Conf Argnetina 2014, slides: https://speakerdeck.com/nb/else-considered-harmful
+      - Code as User Experience @ WordCamp San Francisco 2013, video: http://wordpress.tv/2013/08/15/nikolay-bachiyski-writing-code-as-user-experience-design/
+  email: js@nikolay.bg
+  bio: >
+    I am Nikolay, a Meta Enginner at Automattic, the company behind projects like WordPress.com, Gravatar, Simplenote, SocketIO, Longreads. Most of our new developments are single-page apps based on React and our REST API.
+
+    I am very excited about building web applications in the browser. JavaScript, browsers, and web standards are evolving so quickly that we are forced to build our applications in a way that makes change easy. And that’s a challenge I love.
