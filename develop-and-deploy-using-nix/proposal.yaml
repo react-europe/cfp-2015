@@ -1,0 +1,54 @@
+---
+Session:
+  Title: Develop, test and deploy React applications using Nix
+  Description: >
+    Many of you consider package management a solved problem. We can just use
+    npm to pull in dependencies, right? And when some system requirements are
+    needed we run to apt/rpm/brew for help.
+
+    I guess nobody is having problems with setting their development
+    environment, installing testing tools (Selenium, phantomjs, ...) always
+    works? Forgot to pin correct version of npm package again?
+
+    Is this really the best thing we can do?
+
+    ---
+
+    Nix is a purely functional package manager that makes package management
+    reliable and reproducible. 
+
+    Nix protects me against me. I break stuff, a lot, I am sure you do too.
+    Rollbacks are awesome!
+
+    Nix let's me do things multiple times consistently, even on different
+    machines.  Managing and tracking these dependencies will give us better
+    reproducibility, as well as traceability
+
+    Nix exposes the things I forget. It gives me comfort in knowing all my
+    dependencies and that I don't need to worry about them anymore.
+
+    ---
+
+    We're going to go through cycle of developing, testing and deploying
+    a React application with many very common tools which are hard to install.
+
+  Length: 45
+  Tags:
+    - npm 
+    - packaging
+    - development
+    - deploying
+    - testing
+
+Speaker1:
+  name: Rok Garbas
+  twitter: garbas
+  github: garbas
+  url: https://garbas.si
+  past_experience: http://bobkonf.de/2015/garbas.html
+  email: rok@garbas.si
+  bio: >
+    Rok Garbas is a web programmer, when not writing Javascript, he usually
+    scripts in Python. He started using Nix and later NixOS (linux distribution
+    built around Nix) 3 years ago. Currently he is working at RhodeCode, where
+    he solves packaging problems for large enterprises.
