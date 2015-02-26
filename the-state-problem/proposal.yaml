@@ -1,0 +1,21 @@
+---
+Session:
+  Title: The state problem
+  Description: >
+    Discussing the problems with application state in client side applications. And how you could help solve these problems using immutable data structures (with Immutable.js) and the Flux architecture (using Marty.js)
+  Length: 20
+  Tags:
+    - reactjs
+    - frameworks
+    - immutable
+    - flux
+    - marty
+
+Speaker1:
+  name: James Hollingworth
+  twitter: jhollingworth
+  github: jhollingworth
+  url: http://github.com/jhollingworth
+  email: James Hollingworht
+  bio: >
+    Javascript developer who's spent time working in large enterprises, financial industry and start ups. Developed a number of react open source libraries including react-page-objects (https://github.com/qubitproducts/react-page-objects) which makes it easy to test React components and marty.js (https://github.com/jhollingworth/marty), an implementation of the Flux architecture
