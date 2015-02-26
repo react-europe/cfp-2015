@@ -1,0 +1,44 @@
+---
+Session:
+  Title: React: Challenging the Status Quo
+  Description: >
+    I started using JavaScript when it was merely five years old. At that time
+    DOM APIs weren't yet hardened. There wasn't even a consistent way to find
+    an element across all browsers. We didn't have Ajax for retrieving data
+    from the server. We didn't use fancy CSS layouts. We didn't event have
+    JavaScript frameworks. Back then single page apps weren't just unheard of,
+    they were impossible.
+
+    In the early 2000s we used tables for layout. If you wanted to load parts
+    of your page asynchronously you used framesets. JavaScript was mostly used
+    to validate forms, and handle image rollovers. Every link, and every form
+    submission resulted in a full page reload. We may scoff at that now, but
+    these were the best practices of the time.
+
+    Web development has evolved a lot over the years. A lot of the things that
+    we take for granted now, were once significant break throughs at the time.
+    Innovation happens when we refuse to be satisfied with the status quo.
+    
+    This talk will review some of the history of web development. Then we'll
+    look at how React is making developers rethink what is currently accepted
+    as best practices.
+
+  Length: 30
+  Tags:
+    - reactjs
+    - es6
+    - webpack
+
+Speaker1:
+  name: Matt Zabriskie
+  twitter: mzabriskie
+  github: mzabriskie
+  url: http://mattzabriskie.com
+  email: mzabriskie@gmail.com
+  past_experience: https://www.youtube.com/watch?v=3I99MjfRPbc
+  bio: >
+    Matt has been building web applications since early 2000s. He creates React
+    components by day, and contributes to open source projects by night.
+    Matt is the founder of AngularJS Utah, a user group for AngularJS developers.
+    When not hacking the source codes, Matt can be found outdoors running trails
+    or climbing mountains.
