@@ -1,0 +1,52 @@
+---
+Session:
+  Title: Interactive Data Visualization
+  Description: >
+    Users today want more than to simply visualize their data, they 
+    want to inspect and manipulate their data to gain new insights.
+    
+    Learn how to use React to build interactive data visualization apps
+    that allow a user to highlight, inspect, select, filter and drill 
+    into their data by directly manipulating a data visualization. 
+    
+    In this talk, we'll explore how to:
+    
+     - Build a data pipeline to manage data manipulation
+     - Create frameworks to manage focus, selection, zoom & filters
+     - Develop simple data visualization components that inherit 
+       interactivity from these frameworks
+     - Inject context menus and mouse & keyboard controllers into these
+       visualizations
+     
+    This talk will teach you the lessons we've learned building Amaze, 
+    a data visualization & discovery SDK built entirely on React. 
+    
+  Length: 40
+  Tags:
+    - dataviz
+    - frameworks
+    - reactjs
+
+Speaker1:
+  name: Trevor Lohrbeer
+  twitter: FastFedora
+  github: FastFedora
+  url: http://preview.labescape.com/amaze-early-access-program/
+  past_experience: >
+   - ReactConf Promo: https://www.youtube.com/watch?v=dIa9LaK3koE
+   - Technical Talk: http://www.slideshare.net/fastfedora/under-the-covers-with-the-web-9584360
+   - Non-Technical Talk: https://www.youtube.com/watch?v=hWV3NyAt05Q
+   - Blog: http://blog.fastfedora.com/
+   - LinkedIn: https://www.linkedin.com/in/trevorlohrbeer  
+  email: trevor@fastfedora.com
+  bio: >
+    Trevor Lohrbeer is lead architect and developer of the Amaze Data 
+    Discovery SDK, a new data visualization & visual analytics SDK 
+    being developed by Lab Escape [1] based on its existing Java-based
+    heat map data visualization SDKs.
+    
+    Trevor has been developing data visualization applications for over
+    12 years, and web applications for 20 years. As an early adopter of 
+    JavaScript, he co-authored Dynamic HTML Unleashed. 
+    
+    [1] http://labescape.com/
