@@ -1,0 +1,46 @@
+---
+Session:
+  Title: Maintainability: To Mixin or not to Mixin
+  Description: >
+    With the increasing size of our JavaScript applications, maintainability becomes a significant factor. For this
+    reason React's functional approach is becoming popular.
+
+    Do not repeat yourself (DRY) is a software development best practise to improve maintainability. We can use
+    inheritance, composition, mixins or other techniques to achieve this. In the original React class system
+    mixins were very popular. With the introduction of ES6 classes in React v0.13, mixins are no longer possible.
+
+    This talk explains the different DRY approaches, the pros and cons and their application in React. For example,
+    we'll see how (multiple) mixins and React classes are combined. By diving into React's source, we can see
+    what's possible and what's not. Composition with ES6 classes will also be extensively explored and demoed,
+    whenever possible with the new compositional API.
+
+    This session aims to help you write maintainable React apps.
+  Length: 20
+  Tags:
+    - mixin
+    - components
+    - compositional API
+    - ES6 classes
+    - state
+    - reactjs
+
+Speaker1:
+  name: Rick Beerendonk
+  twitter: rickbeerendonk
+  github: rickbeerendonk
+  url: http://blog.rickbeerendonk.com
+  past_experience: >
+    React simplifies the web (in Dutch) @ SDN Event.
+      Slides: http://www.slideshare.net/RickBeerendonk/react-maakt-het
+    Maintainable Software (in Dutch) @ Microsoft TechDays.
+      Video: http://channel9.msdn.com/Events/TechDays/Techdays-2014-the-Netherlands/Niet-onderhoudbare-software-in-10-makkelijke-stappen
+    Building Maintainable Applications (in English) @ JSConf Colombia.
+      Slides: http://rickbeerendonk.github.io/jsconf-colombia-2013/
+    HTML5, JavaScript & C# courses in Norway & The Netherlands (in English):
+      http://www.glasspaper.no/no/Om-oss/Instruktorer/Rick-Beerendonk/
+  email: rick@beerendonk.com
+  bio: >
+    Rick is a senior consultant, coach and trainer from The Netherlands. He has 20 years of professional experience
+    while working in small, large and fast growing organizations. His passion is simplicity, well-written code,
+    webdevelopment and team dynamics. He speaks regularly about these topics at international events. Rick likes to
+    code in JavaScript, ClojureScript and C#.
