@@ -1,0 +1,48 @@
+---
+Session:
+  Title: Moving fast and not breaking things
+  Description: >
+    Hear a report from the frontlines of using React.js to build products at
+    breakneck speed at a SaaS startup.
+
+    Kyle is the technical cofounder at [RelateRocket](https://relaterocket.co)
+    which enables salespeople to create adhoc micropages to send personalized marketing
+    content to buyers.
+
+    In this session Kyle will discuss the theory and practices that helps them
+    quickly and reliably ship new code and bug fixes to their six and counting
+    internal/external React applications.
+
+    Learn why and how you should:
+
+    * Invest heavily in open source. React.js is unique in the history of the web
+    that it finally enables highly reusable components. Adopting and contributing to
+    open source speeds development velocity and makes your code more reliable.
+    * Invest in adopting and building development tools.
+    * Automate builds and make immutable deployments.
+    * Test and monitor code using visual diffing and other strategies.
+
+  Length: 20
+  Tags:
+    - open source
+    - startups
+    - development practices
+
+Speaker1:
+  name: Kyle Mathews
+  twitter: kylemathews
+  github: kyleamathews
+  url: http://bricolage.io
+  past_experience:
+    - https://docs.google.com/presentation/d/1V9p20qyjXOR_w6WI0yKhpmpUUvAn2Zo5eSq0Z6VvAbM/edit?usp=sharing
+    - https://www.youtube.com/watch?v=AnE6m1Q1520
+    - http://dc2009.drupalcon.org/session/building-advanced-social-networks-large-us-university.html
+  email: mathews.kyle@gmail.com
+  bio: >
+    Kyle is the technical co-founder of [RelateRocket](https://relaterocket.co)
+    based in San Francisco. He's been using React full-time for the past year.
+
+    Before RelateRocket he was the senior frontend engineer at [Pantheon](https://pantheon.io/)
+    where he designed and built their realtime customer dashboard.
+
+    While in college he started an edtech company Eduglu building social networks for universities.
