@@ -1,0 +1,39 @@
+---
+Session:
+  Title: An Elm-inspired React architecture
+  Description: >
+    Elm is a FRP language that compiles to Javascript. It’s creator, Evan
+    Czaplicki, writes about a really simple pattern that naturally emerged when
+    creating apps with Elm, that’s surprisingly powerful, here:
+    https://github.com/evancz/elm-architecture-tutorial. Moreover, Elm’s
+    redering technique uses vdom, which is inspired in turn by React. Should we
+    come full circle?
+    In this talk, we’ll explain this architecture and explore how to bring it
+    back to Javascript land using React, Immutable.js and the Flux dispatcher to
+    provide a new way to create complex UIs. No need for using Stores, cursors
+    or learn new concepts. If you know React and functions, you got all you
+    need!
+  Length: 20
+  Tags:
+    - elm
+    - reactjs
+    - architecture
+    - flux
+    - frp
+    - immutable
+
+Speaker1:
+  name: Leonardo Andres Garcia Crespo
+  twitter: leogcrespo
+  github: leoasis
+  url: http://leoasis.github.io/
+  past_experience: >
+    Speaker at JSConf Uruguay 2014 (video not yet available)
+    Speaker at local meetups in Buenos Aires, mainly Meetup.js, the Buenos
+    Aires Javascript meetup group.
+  email: leoasis@gmail.com
+  bio: >
+    Fan of technology, always learning new things. Digging the functional
+    programing surface, and loving it. Working for SCVSoft as a Javascript and
+    Ruby developer. Co-organizer of the Javascript Meetup group in Buenos Aires.
+    Co-founder of Amplified, to bring light to the music bands out there.
