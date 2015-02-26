@@ -1,0 +1,25 @@
+---
+Session:
+  Title: React-ify jQuery plugins for fun and profit
+  Description: >
+    React.js and Flux are revolutionizing the front-end web development world.
+    However, the ecosystem is still very immature. This talk will cover useful
+    techniques for adapting existing jQuery plugins and other legacy browser
+    libraries to properly implement React.js component specifications and
+    lifecycle methods. Live on the wild side and fill the library gap!
+  Length: 20
+  Tags:
+    - components
+    - jquery
+    - legacy
+    - reactjs
+
+Speaker1:
+  name: Chris M. Welsh
+  twitter: chrismwelsh
+  github: cmwelsh
+  url: http://cmwelsh.com
+  email: chris@cmwelsh.com
+  bio: >
+    JavaScript pragmatist currently building a startup with React.js, Flux,
+    and jQuery.
