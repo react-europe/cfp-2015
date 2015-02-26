@@ -1,0 +1,28 @@
+---
+Session:
+  Title: DB-Backed UI's - Crazy Experiments, Tools, & Findings
+  Description: >
+    React pushed for simplicity so effectively, while staying so small, that it's enabled a whole new field of experiments in UI architecture. In this talk, we look at a Sul, a new way of managing state in a React client via a client-side in-memory, immutable database called DataScript. With Sul, instead of local state and multiple stores (normal React components & Flux) or narrowing scope (ClojureScript's Om components), we use database-queries against a single, centralize store power components. Multiple components with no structural ancestor relationship can query against a central store and derive custom views, and if a transaction invalidates the view, the components are independently re-rendered.
+    Centralized stores and declarative db-queries also open up huge tooling possibilities - a designer can edit the query for a component in-browser and immediately see the change, entire user sessions can be captured and replayed for debugging and testing, and reusability falls out almost for free.
+    No abstraction is without its tradeoffs, however. We'll also cover some of the disadvantages and challenges of this approach so far, with an eye towards future areas of exploration.
+  Length: 30
+  Tags:
+    - db
+    - clojurescript
+    - immutable
+    - state
+    - store
+    - experimental
+    - reactjs
+    - frameworks
+    - tooling
+
+Speaker1:
+  name: Sean Grove
+  twitter: sgrove
+  github: sgrove
+  url: null
+  past_experience: http://youtube.com?w=My_awesome_past_experience
+  email: sean@bushi.do
+  bio: >
+    Since founding Bushido, Sean Grove has started, contributed to, and maintains dozens of OSS projects, from Rails-based CRMs to reusable Om components. He laid the groundwork for the largest OSS Om app (CircleCI's frontend), has contributed reified keywords & polished source-map for the ClojureScript compiler, and has been keenly interested in improving dev & designer tooling in the browser, be they time-traveling debuggers or WebGL mockup tools. He also runs the ClojureScript meetup in SF.
