@@ -1,0 +1,53 @@
+---
+Session:
+  Title: Tracking Updates on Mutable Objects
+  Description: >
+    Immutable objects can provide huge performance gains when rendering
+    React components. But what if you need to use mutable objects? Or 
+    if you need to integrate with other JavaScript libraries that use 
+    mutable objects?
+    
+    Learn how to track updates to mutable objects via an update engine
+    to optimize the rendering of your React components without doing 
+    deep object comparisons.
+    
+    In this talk, we'll explore:
+    
+     - Why mutable props can cause poor performance
+     - How tracking updates to objects can help
+     - How to build an update engine that tracks object updates
+     - How to use this update engine to improve render performance
+
+    This talk will teach you the lessons we've learned building an 
+    update engine to optimize the rendering of large datasets in Amaze,
+    a data visualization & discovery SDK we've built entirely on React. 
+    
+  Length: 20
+  Tags:
+    - immutable objects
+    - frameworks
+    - reactjs
+
+Speaker1:
+  name: Trevor Lohrbeer
+  twitter: FastFedora
+  github: FastFedora
+  url: http://blog.fastfedora.com/
+  past_experience: >
+   - ReactConf Promo: https://www.youtube.com/watch?v=2ecfwSyJEV4
+   - Technical Talk: http://www.slideshare.net/fastfedora/under-the-covers-with-the-web-9584360
+   - Non-Technical Talk: https://www.youtube.com/watch?v=hWV3NyAt05Q
+   - Blog: http://blog.fastfedora.com/
+   - LinkedIn: https://www.linkedin.com/in/trevorlohrbeer
+  email: trevor@fastfedora.com
+  bio: >
+    Trevor Lohrbeer is lead architect and developer of the Amaze Data 
+    Discovery SDK, a new data visualization & visual analytics SDK 
+    being developed by Lab Escape [1] based on its existing Java-based
+    heat map data visualization SDKs.
+    
+    Trevor has been developing data visualization applications for over
+    12 years, and web applications for 20 years. As an early adopter of 
+    JavaScript, he co-authored Dynamic HTML Unleashed. 
+    
+    [1] http://labescape.com/
